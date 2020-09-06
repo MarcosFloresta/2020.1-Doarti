@@ -1,6 +1,5 @@
 * [Home](/)
-* [Planejamento](/)
-  * [Cronograma](/cronograma.md)
+* [Planejamento](docs/planejamento.md)
 * Pré-rastreabilidade
 * Elicitação
 * Modelagem
