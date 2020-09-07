@@ -1,33 +1,19 @@
-.cover {
-    background: #493081 !important;
-  }
+
+.cover:after {
+  content: '';
+  position: absolute;
+  background-color: #493081;
   
-  .cover.show {
-    border-bottom: .2rem solid #493081;
-  }
-  
-  .cover-main {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-content: center;
-  }
-  
-  .cover-main h1 { 
-    color: white !important;
-    font-size: 2rem !important;
-  }
-  
-  .cover-main p {
-    text-align: center;
-    display: flex;
-    justify-content: center;
-  }
-  
-  .cover-main p img {
-    width: 16rem;
-    height: 16rem;
-    margin-top: 4rem;
-  }
-  
-  pre::after {display: none !important;}
+}
+
+.cover .cover-main>p:last-child a:first-child {
+  color: white;
+  background: #4DABCF;
+  border-color: transparent
+}
+
+.cover .cover-main>p:last-child a{
+  color:#4DABCF;
+  background: transparent;
+  border-color: #4DABCF;
+}
