@@ -1,4 +1,4 @@
-![logo](/assets/images/logo_com_slogan.png)
+![logo](/assets/images/infinity.png)
 
-[Começar](/README.md) 
+[Wiki](/README.md) 
 [GitHub](https://github.com/Requisitos-de-Software/2020.1-Doarti)

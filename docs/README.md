@@ -1,4 +1,4 @@
-![alt text](https://doarti.com.br/assets/img/logo_rodape_com_slogan.png "Doarti")
+![Logo](/assets/images/logo_com_slogan.png)
 
 # 2020.1-Doarti
 ## Sobre Doarti
