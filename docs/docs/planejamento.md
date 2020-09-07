@@ -1,8 +1,7 @@
-## Equipe
+## Introdução
+O planejamento é um artefato que define a organização inicial do projeto. Nele são descritos: ferramentas que irão ser utilizadas, cronogramas, meios de comunicação da equipe, organização, metodologias e estruturação do projeto.
 
 ## Ferramentas
-
-Este documento elicita as ferramentas usadas para o desenvolvimento dos artefatos do projeto.
 
 | Ferramenta      | Descrição                                                                                |
 | --------------- | ---------------------------------------------------------------------------------------- |
@@ -31,5 +30,5 @@ Este documento elicita as ferramentas usadas para o desenvolvimento dos artefato
 
 |    Data    | Versão |        Descrição         |                    Autor(es)                     |
 | :--------: | :----: | :----------------------: | :----------------------------------------------: |
-| 06/09/2020 |  1.0   |  Criação do documento.   |                  Ithalo Azevedo                  |
-| 06/09/2020 |  1.1   | Inclusão das ferramentas | [Marcos Cabeceira](https://github.com/Foxtrot40) |
+| 07/09/2020 |  1.0   |  Criação do documento.   |                  Ithalo Azevedo                  |
+
