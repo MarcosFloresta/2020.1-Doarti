@@ -30,5 +30,5 @@ O planejamento é um artefato que define a organização inicial do projeto. Nel
 
 |    Data    | Versão |        Descrição         |                    Autor(es)                     |
 | :--------: | :----: | :----------------------: | :----------------------------------------------: |
-| 07/09/2020 |  1.0   |  Criação do documento.   |                  Ithalo Azevedo                  |
+| 07/09/2020 |  1.0   |  Criação do documento.   |                  Ithalo Azevedo, Marcos Cabeceira                  |
 
