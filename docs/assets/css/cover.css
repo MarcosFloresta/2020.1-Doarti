@@ -2,18 +2,18 @@
 .cover:after {
   content: '';
   position: absolute;
-  background-color: #493081;
+  background-color: #775b9e3b;
   
 }
 
 .cover .cover-main>p:last-child a:first-child {
   color: white;
-  background: #4DABCF;
+  background: #3d2562;
   border-color: transparent
 }
 
 .cover .cover-main>p:last-child a{
-  color:#4DABCF;
-  background: transparent;
-  border-color: #4DABCF;
+  color:white;
+  background: #3d2562;
+  border-color: transparent;
 }

@@ -1,6 +1,3 @@
-![Logo](/assets/images/logo_com_slogan.png)
-
-# 2020.1-Doarti
 ## Sobre Doarti
 [Doarti](https://doarti.com.br/) é um projeto sem fins lucrativos, que busca disponibilizar uma plataforma digital que potencialize a construção de uma rede de ajuda (coleta e distribuição de doações). O projeto conta com a participação de professores do curso de Engenharia de Software, UnB/Gama, empresa de tecnologia Main Class e uma rede de profissionais, entre eles ex-alunos da Universidade.
 
@@ -29,7 +26,7 @@ O app Doarti se destina, tanto a doadores, quanto a beneficiários, os quais se 
     </div>
     <div class="member">
       <img src="./assets/images/equipe/victor.jpg"alt="member name">
-      <p>Victor Jorge da Silva Gonçalves<p>
+      <p>Victor Jorge<p>
     </div>
  
 
