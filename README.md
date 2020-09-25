@@ -1,4 +1,4 @@
-![alt text](/docs/assets/images/Logo-Doarti-Slogan-01.png)
+![alt text](/docs/assets/images/doarti/Logo-Doarti-Slogan-01.png)
 
 # 2020.1-Doarti
 ## Wiki

@@ -1,6 +1,6 @@
 * [Home](/)
-* [Planejamento](docs/planejamento.md)
-* Pré-rastreabilidade
+* [Planejamento](artefatos/planejamento.md)
+* [Pré-rastreabilidade](artefatos/preRastreabilidade/richPicture.md)
 * Elicitação
 * Modelagem
 * Análise
