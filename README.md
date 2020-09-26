@@ -16,4 +16,3 @@ O app Doarti se destina, tanto a doadores, quanto a beneficiários, os quais se 
 | Ithalo Luiz de Azevedo Mendes | 170069800 | ithaloazevedo | ithaloazevedoo@gmail.com |
 | Marcos a Silva Cabeceira | 190113031 | Foxtrot40 | cabeceiramarcos@gmail.com |
 | Marcos Vinicius Lima Raimundo | 18/0145231 | MarcosFloresta | marcoslimaraimundo@gmail.com |
-| Victor Jorge da Silva Gonçalves | 180055241 | VictorJorgeFGA | victor.eng.unb@gmail.com |

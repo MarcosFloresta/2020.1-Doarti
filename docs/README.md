@@ -24,10 +24,5 @@ O app Doarti se destina, tanto a doadores, quanto a beneficiários, os quais se 
       <img src="./assets/images/equipe/marcos_floresta.jpg" alt="member name">
       <p>Marcos Vinicius<p>
     </div>
-    <div class="member">
-      <img src="./assets/images/equipe/victor.jpg"alt="member name">
-      <p>Victor Jorge<p>
-    </div>
- 
 
 
