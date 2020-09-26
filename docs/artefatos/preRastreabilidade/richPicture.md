@@ -7,6 +7,8 @@ Rich picture é uma técnica que tem como objetivo entender o processo da intera
 ### Ithalo Azevedo
 ![Ithalo Azevedo](../../assets/images/richPictures/RP_IthaloLuizDeAzevedoMendes.jpg)
 
+### Aline Lermen
+![Aline Lermen](../../assets/images/richPictures/RP_AlineHelenaLermen.png)
 
 ## Referências
 
@@ -16,4 +18,6 @@ Rich picture é uma técnica que tem como objetivo entender o processo da intera
 |    Data    | Versão |         Descrição         |           Autor(es)            |
 | :--------: | :----: | :-----------------------: | :----------------------------: |
 | 25/09/2020 |  1.0   |  Criação de Rich Picture individual. | Ithalo Azevedo | 
+| 25/09/2020 |  1.0   |  Adição do Rich Picture individual. | Aline Lermen | 
+
 

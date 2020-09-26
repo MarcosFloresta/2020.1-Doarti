@@ -43,7 +43,7 @@ Há uma variedade de itens que podem ser doados, e, muitas vezes, os participant
  * O usuário doador deve poder pesquisar por itens a doar;
  * O usuário doador deve poder pesquisar por entidades;
  * O usuário doador deve poder conversar com a entidade pelo chat;
- * O usuário deve poder optar por receber notifiações do aplicativo;
+ * O usuário deve poder optar por receber notificações do aplicativo;
 
 ## Históricos de Revisões
 
