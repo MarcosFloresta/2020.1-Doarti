@@ -1,8 +1,6 @@
-* [Home](/)
-* [Planejamento](docs/planejamento.md)
-* Pré-rastreabilidade
-* Elicitação
-    * [Questionário](docs/elicitacao/questionario.md)
-* Modelagem
-* Análise
-* Pós-rastreabilidade
+- [Home](/)
+- [Planejamento](artefatos/planejamento.md)
+- [Pré-rastreabilidade](artefatos/preRastreabilidade/richPicture.md)
+- **Elicitação**
+  - [Questionário](artefatos/elicitação/questionario.md)
+  - [Personas](artefatos/elicitação/personas.md)
