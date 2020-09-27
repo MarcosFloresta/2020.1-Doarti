@@ -18,7 +18,7 @@ O grupo utilizou uma plataforma online chamada [MindMeister](https://www.mindmei
 
 ## Históricos de Revisões
 
-|    Data    | Versão |                   Descrição                   |                                  Autor(es)                                  |
-| :--------: | :----: | :-------------------------------------------: | :-------------------------------------------------------------------------: |
+|    Data    | Versão |                   Descrição                    |                                  Autor(es)                                  |
+| :--------: | :----: | :-------------------------------------------:  | :-------------------------------------------------------------------------:  |
 | 25/09/2020 |  1.0   | Criação do documento | Ithalo Azevedo|
-| 27/09/2020 |  1.0   | Adição dos printscreens do brainstorming | Ithalo Azevedo|
+| 27/09/2020 |  1.0   | Adição dos printscreens do brainstorming | Ithalo Azevedo |
