@@ -23,7 +23,7 @@ Para o projeto, nossa equipe decidiu criar personas com comportamentos e dificul
 
 ## Históricos de Revisões
 
-|    Data    | Versão |                   Descrição                   |                                  Autor(es)                                  |
-| :--------: | :----: | :-------------------------------------------: | :-------------------------------------------------------------------------: |
-| 24/09/2020 |  1.0   | Criação do documento e adição de personas | Ithalo Azevedo|
-| 26/09/2020 |  1.0   | Adição de metodologia e descrição da ferramenta | Ithalo Azevedo|
+|    Data    | Versão |                    Descrição                    |   Autor(es)    |
+| :--------: | :----: | :---------------------------------------------: | :------------: |
+| 24/09/2020 |  1.0   |    Criação do documento e adição de personas    | Ithalo Azevedo |
+| 26/09/2020 |  1.0   | Adição de metodologia e descrição da ferramenta | Ithalo Azevedo |
