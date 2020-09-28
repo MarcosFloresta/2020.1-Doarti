@@ -1,6 +1,10 @@
 - [Home](/)
-- [Planejamento](artefatos/planejamento.md)
-- [Pré-rastreabilidade](artefatos/preRastreabilidade/richPicture.md)
+- [Apresentações](artefatos/apresentacoes.md)
+- **Pré-rastreabilidade**
+  - [Planejamento](artefatos/planejamento.md)
+  - [RichPicture](artefatos/preRastreabilidade/richPicture.md)
+  - [5W2H](artefatos/preRastreabilidade/5w2h.md)
 - **Elicitação**
   - [Questionário](artefatos/elicitação/questionario.md)
   - [Personas](artefatos/elicitação/personas.md)
+  - [Brainstorming](artefatos/elicitação/brainstorming.md)
