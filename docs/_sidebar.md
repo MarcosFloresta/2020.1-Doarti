@@ -6,8 +6,7 @@
   - [5W2H](artefatos/preRastreabilidade/5w2h.md)
 - **Elicitação**
   - [Questionário](artefatos/elicitação/questionario.md)
-  - [Personas](artefatos/elicitação/personas.md)
-  - [Entrevistas](artefatos/elicitação/entrevistas.md)
   - [Brainstorming](artefatos/elicitação/brainstorming.md)
+  - [Personas](artefatos/elicitação/personas.md)
   - [Entrevistas](artefatos/elicitação/entrevistas.md)
   - [Storyboard](artefatos/elicitação/storyboard.md)
