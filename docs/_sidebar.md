@@ -9,3 +9,5 @@
   - [Personas](artefatos/elicitação/personas.md)
   - [Entrevistas](artefatos/elicitação/entrevistas.md)
   - [Brainstorming](artefatos/elicitação/brainstorming.md)
+  - [Entrevistas](artefatos/elicitação/entrevistas.md)
+  - [Storyboard](artefatos/elicitação/storyboard.md)
