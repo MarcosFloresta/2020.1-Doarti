@@ -7,4 +7,5 @@
 - **Elicitação**
   - [Questionário](artefatos/elicitação/questionario.md)
   - [Personas](artefatos/elicitação/personas.md)
+  - [Entrevistas](artefatos/elicitação/entrevistas.md)
   - [Brainstorming](artefatos/elicitação/brainstorming.md)
