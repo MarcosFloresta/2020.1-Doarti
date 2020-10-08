@@ -11,3 +11,5 @@
   - [Entrevistas](artefatos/elicitação/entrevistas.md)
   - [Storyboard](artefatos/elicitação/storyboard.md)
   - [Priorização](artefatos/elicitação/moscow.md)
+- **Modelagem**
+  - [Especificação de caso de uso](artefatos/modelagem/especificacaoDeCasoDeUso.md)  
