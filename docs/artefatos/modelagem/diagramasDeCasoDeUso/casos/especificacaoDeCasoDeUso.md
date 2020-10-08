@@ -10,6 +10,8 @@
 ## Casos de Uso
 Os casos de uso tem como principal objetivo especificar o comportamento de uma funcionalidade do sistema, descrevendo como será o uso de cada funcionalidade com foco no usuário do sistema. 
 
+### [BUC01 - Cadastrar como usuário entidade]()
+### [BUC02 - Login como usuário entidade]()
 
 
 
