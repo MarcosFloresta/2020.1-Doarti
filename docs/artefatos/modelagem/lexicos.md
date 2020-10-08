@@ -1,5 +1,9 @@
 # Léxicos
 
+## Introdução
+
+Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfabética e com seus respectivos significados dentro do aplicativo Doarti. Os léxios foram descritos com Noções e Impactos que, respectivamente, são o significados denotativos dos termos e o efeitos que o simbolos têm na aplicação.
+
 ### Alterar senha
 
 | Tipo | Noção | Impacto | Sinônimos |
