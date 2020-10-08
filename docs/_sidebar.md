@@ -12,4 +12,4 @@
   - [Storyboard](artefatos/elicitação/storyboard.md)
   - [Priorização](artefatos/elicitação/moscow.md)
 - **Modelagem**
-  - [Especificação de caso de uso](artefatos/modelagem/especificacaoDeCasoDeUso.md)  
+  - [Especificação de caso de uso](artefatos/modelagem/diagramasDeCasoDeUso/especificacaoDeCasoDeUso.md)  
