@@ -32,7 +32,6 @@ Um modelo para classificação de atributos de qualidade de software. Desenvolvi
 - **S - Suportability (Suportabilidade)** <br />
   Os requisitos de suportabilidade agrupam várias características, tais como: testabilidade, adaptabilidade, manutenabilidade, campatibilidade, configurabilidade, instalabilidade, escalabilidade, entre outros.
 
-
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
-| 08/10/2020 | 1.0 | Criação do documento, adição de Introdução, Finalidade, Escopo e Método de avaliação | [Marcos Cabeceira](https://github.com/Foxtrot40) |
+| 06/10/2020 | 1.0 | Criação do documento, adição de Introdução, Finalidade, Escopo e Método de avaliação | [Marcos Cabeceira](https://github.com/Foxtrot40) |
