@@ -14,4 +14,5 @@
 - **Modelagem de Requisitos**
   - [Cenários](artefatos/modelagemRequisitos/cenarios.md)
 - **Modelagem**
-  - [Especificação de caso de uso](artefatos/modelagem/especificacaoDeCasoDeUso.md)  
+  - [Especificação de caso de uso](artefatos/modelagem/diagramasDeCasoDeUso/especificacaoDeCasoDeUso.md)
+  - [Léxicos](artefatos/modelagem/lexicos.md)
