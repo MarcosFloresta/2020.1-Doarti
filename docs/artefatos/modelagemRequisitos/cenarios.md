@@ -25,3 +25,7 @@ Trata-se de uma estratégia reconhecida por compreender as interações entre am
 | Recursos | | Smartphone, acesso à internet e conta na plataforma |
 | Exceção | | Usuário não é cadastrado ou não possuir qualquer um dos recursos descritos <br /> Usuário já está logado |
 | Episódios | | - O usuário entra na tela Home <br /> - Escolhe uma doação para fazer - Se não estiver conectado, usuário se conecta <br /> - O usuário preenche as informações sobre a doação e se pode entregar a doação na entidade <br />|
+
+| Data | Versão | Descrição | Autor(es) |
+|:----:|:------:|:---------:|:---------:|
+| 08/10/2020 | 1.0 | Criação do documento, adição de cenários 1 e 2 | [Marcos Cabeceira](https://github.com/Foxtrot40) |
