@@ -11,9 +11,8 @@
   - [Entrevistas](artefatos/elicitação/entrevistas.md)
   - [Storyboard](artefatos/elicitação/storyboard.md)
   - [Priorização](artefatos/elicitação/moscow.md)
-- **Modelagem de Requisitos**
-  - [Cenários](artefatos/modelagemRequisitos/cenarios.md)
-  - [Especificação Suplementar](artefatos/modelagemRequisitos/especificacaoSuplementar.md)
 - **Modelagem**
   - [Especificação de caso de uso](artefatos/modelagem/diagramasDeCasoDeUso/especificacaoDeCasoDeUso.md)
   - [Léxicos](artefatos/modelagem/lexicos.md)
+  - [Cenários](artefatos/modelagemRequisitos/cenarios.md)
+  - [Especificação Suplementar](artefatos/modelagemRequisitos/especificacaoSuplementar.md)
