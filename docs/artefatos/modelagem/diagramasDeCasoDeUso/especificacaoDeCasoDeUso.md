@@ -17,8 +17,8 @@ Caso de uso é uma técnica de especificação que descreve uma seqüência de a
 - [BUC11 - Conversar com usuário doador](artefatos/modelagem/diagramasDeCasoDeUso/casos/BUC11.md)
 
 ### Usuário tipo doador:
-- [DUC01- Cadastrar como usuário doador](artefatos/modelagem/diagramasDeCasoDeUso/casos/DUC01.md)
-- [DUC02- Fazer login como usuário doador](artefatos/modelagem/diagramasDeCasoDeUso/casos/DUC02.md)
+- [DUC01 - Cadastrar como usuário doador](artefatos/modelagem/diagramasDeCasoDeUso/casos/DUC01.md)
+- [DUC02 - Fazer login como usuário doador](artefatos/modelagem/diagramasDeCasoDeUso/casos/DUC02.md)
 - [DUC03 - Visualizar perfil como usuário doador](artefatos/modelagem/diagramasDeCasoDeUso/casos/DUC03.md)
 - [DUC04 - Editar perfil como usuário doador](artefatos/modelagem/diagramasDeCasoDeUso/casos/DUC04.md)
 - [DUC05 - Ver histórico de doações](artefatos/modelagem/diagramasDeCasoDeUso/casos/DUC05.md)
@@ -41,5 +41,5 @@ Caso de uso é uma técnica de especificação que descreve uma seqüência de a
 |:----:|:------:|:---------:|:---------:|
 | 08/10/2020 | 1.0 | Criação do documento, adição da introdução e referências | Ithalo Azevedo |
 | 08/10/2020 | 1.1 | Revisando casos de uso do usuário tipo beneficiário | Aline Lermen |
-| 08/10/2020 | 1.2 | Revisando casos de uso do usuário tipo beneficiário | Ithalo Azevedo |
+| 08/10/2020 | 1.2 | Revisando casos de uso do usuário tipo doador | Ithalo Azevedo |
 | 08/10/2020 | 1.3 | Linkando casos de uso | Aline Lermen, Ithalo Azevedo |
