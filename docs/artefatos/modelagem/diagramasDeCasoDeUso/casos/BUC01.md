@@ -18,7 +18,7 @@ O usuário beneficiário deve se enquadrar nos [critérios de cadastro](https://
 ## Fluxo de Eventos
 
 ### Fluxo Principal
-1. O usuário beneficiário entra no site do Doarti (https://doarti.com.br/).
+1. O usuário beneficiário entra no site do [Doarti](https://doarti.com.br/).
 2. O usuário beneficiário clica em “Pré-cadastro”.
 3. O usuário beneficiário é redirecionado para um formulário de pré-cadastro.
 4. O usuário beneficiário preenche o formulário.
@@ -32,7 +32,7 @@ Não há fluxos alternativos.
 
 ### Fluxos de Exceção
 **FE01**: Usuário beneficiário não se enquadra nos critérios de cadastro.
-   1. O usuário beneficiário entra no site do Doarti (https://doarti.com.br/).
+   1. O usuário beneficiário entra no site do [Doarti](https://doarti.com.br/).
    2. O usuário beneficiário clica em “Pré-cadastro”.
    3. O usuário beneficiário é redirecionado para um formulário de pré-cadastro.
    4. O usuário beneficiário preenche o formulário.
