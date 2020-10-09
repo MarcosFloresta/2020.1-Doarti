@@ -13,3 +13,5 @@
   - [Priorização](artefatos/elicitação/moscow.md)
 - **Modelagem de Requisitos**
   - [Cenários](artefatos/modelagemRequisitos/cenarios.md)
+- **Modelagem**
+  - [Especificação de caso de uso](artefatos/modelagem/especificacaoDeCasoDeUso.md)  
