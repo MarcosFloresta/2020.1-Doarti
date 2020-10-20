@@ -7,4 +7,4 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UvGuwvaya8E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 3. Modelagem
-<iframe width="560" height="315" src="https://youtu.be/YdC193hin_g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=YdC193hin_g&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
