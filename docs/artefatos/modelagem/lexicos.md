@@ -52,7 +52,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-## Descrição
+### Descrição
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -140,7 +140,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-## Login do Doador
+### Login do Doador
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -148,7 +148,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-## Mensagem
+### Mensagem
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
