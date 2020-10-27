@@ -16,3 +16,4 @@
   - [Léxicos](artefatos/modelagem/lexicos.md)
   - [Cenários](artefatos/modelagem/cenarios.md)
   - [Especificação Suplementar](artefatos/modelagem/especificacaoSuplementar.md)
+  - [Backlog](artefatos/modelagem/backlog.md)
