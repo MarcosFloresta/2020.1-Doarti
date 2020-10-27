@@ -24,4 +24,5 @@ Separamos os NFRs por temas de interesse e usamos o site draw.io para elaborar o
 
 | Data | Versão | Descrição | Autor(es) |
 |:---:|:---:|:---:|:---:|
-| 08/10/2020 | 1.0 | Criação do documento NFR| [Marcos Raimundo](https://github.com/MarcosFloresta), [Marcos Cabeceira](https://github.com/Foxtrot40) |
+| 27/10/2020 | 1.0 | Criação do documento NFR | [Marcos Raimundo](https://github.com/MarcosFloresta), [Marcos Cabeceira](https://github.com/Foxtrot40) |
+| 27/10/2020 | 1.1 | Adição dos esquemas NFR | [Marcos Raimundo](https://github.com/MarcosFloresta), [Marcos Cabeceira](https://github.com/Foxtrot40) |
