@@ -3,176 +3,182 @@ O Backlog é uma lista de funcionalidades desejadas de um produto, ou seja, os r
 
 ## Backlog e histórias de usuário
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ycr8{background-color:#ffffff;text-align:left;vertical-align:top}
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vxga{background-color:#ffffff;text-align:center;vertical-align:middle}
+.tg .tg-d7mt{background-color:#cbcefb;border-color:#cbcefb;text-align:center;vertical-align:middle}
+.tg .tg-f189{background-color:#dae8fc;text-align:center;vertical-align:middle}
+.tg .tg-p7cy{background-color:#ffffff;color:#000000;text-align:center;vertical-align:middle}
+.tg .tg-y0n7{background-color:#efefef;text-align:center;vertical-align:middle}
+.tg .tg-94h5{background-color:#cbcefb;text-align:center;vertical-align:middle}
+.tg .tg-xnem{background-color:#ffffff;border-color:#cbcefb;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ycr8"><span style="font-weight:bold">Épico</span></th>
-    <th class="tg-ycr8"><span style="font-weight:bold">Feature</span></th>
-    <th class="tg-ycr8"><span style="font-weight:bold">ID</span></th>
-    <th class="tg-ycr8"><span style="font-weight:bold">US</span></th>
+    <th class="tg-d7mt"><span style="font-weight:bold">Épico</span></th>
+    <th class="tg-d7mt"><span style="font-weight:bold">Feature</span></th>
+    <th class="tg-d7mt"><span style="font-weight:bold">ID</span></th>
+    <th class="tg-d7mt"><span style="font-weight:bold">US</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ycr8" rowspan="17">E01 - Usuário beneficiário</td>
-    <td class="tg-ycr8" rowspan="3">FE01 - Cadastro e autenticação</td>
-    <td class="tg-ycr8">US01</td>
-    <td class="tg-ycr8">Eu, como usuário beneficiário, gostaria de me cadastrar no Doarti.</td>
+    <td class="tg-f189" rowspan="17">E01 - Usuário beneficiário</td>
+    <td class="tg-p7cy" rowspan="3">FE01 - Cadastro e autenticação</td>
+    <td class="tg-y0n7">US01</td>
+    <td class="tg-y0n7">Eu, como usuário beneficiário, gostaria de me cadastrar no Doarti.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US02</td>
-    <td class="tg-ycr8"><span style="color:#000">Eu, como usuário beneficiário, gostaria de realizar meu login.</span></td>
+    <td class="tg-vxga">US02</td>
+    <td class="tg-vxga"><span style="color:#000">Eu, como usuário beneficiário, gostaria de realizar meu login.</span></td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US03</td>
-    <td class="tg-ycr8"><span style="color:#000">Eu, como usuário beneficiário, gostaria de realizar meu logout.</span></td>
+    <td class="tg-y0n7">US03</td>
+    <td class="tg-y0n7"><span style="color:#000">Eu, como usuário beneficiário, gostaria de realizar meu logout.</span></td>
   </tr>
   <tr>
-    <td class="tg-ycr8" rowspan="3">FE02 - Dados cadastrais</td>
-    <td class="tg-ycr8">US04</td>
-    <td class="tg-ycr8"><span style="color:#000">Eu, como usuário beneficiário, gostaria de visualizar meus dados cadastrais.</span></td>
+    <td class="tg-vxga" rowspan="3">FE02 - Dados cadastrais</td>
+    <td class="tg-vxga">US04</td>
+    <td class="tg-vxga"><span style="color:#000">Eu, como usuário beneficiário, gostaria de visualizar meus dados cadastrais.</span></td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US05</td>
-    <td class="tg-ycr8">Eu, como usuário beneficiário, gostaria de editar meus dados cadastrais.</td>
+    <td class="tg-y0n7">US05</td>
+    <td class="tg-94h5">Eu, como usuário beneficiário, gostaria de editar meus dados cadastrais.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US06</td>
-    <td class="tg-ycr8">Eu, como usuário beneficiário, gostaria de alterar minha senha.</td>
+    <td class="tg-vxga">US06</td>
+    <td class="tg-vxga">Eu, como usuário beneficiário, gostaria de alterar minha senha.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8" rowspan="4">FE03 - Gerenciar campanhas</td>
-    <td class="tg-ycr8">US07</td>
-    <td class="tg-ycr8">Eu, como usuário beneficiário, gostaria de criar campanhas.</td>
+    <td class="tg-xnem" rowspan="4">FE03 - Gerenciar campanhas</td>
+    <td class="tg-y0n7">US07</td>
+    <td class="tg-y0n7">Eu, como usuário beneficiário, gostaria de criar campanhas.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US08</td>
-    <td class="tg-ycr8">Eu, como usuário beneficiário, gostaria de editar campanhas.</td>
+    <td class="tg-vxga">US08</td>
+    <td class="tg-vxga">Eu, como usuário beneficiário, gostaria de editar campanhas.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US09</td>
-    <td class="tg-ycr8">Eu, como usuário beneficiário, gostaria de excluir campanhas.</td>
+    <td class="tg-y0n7">US09</td>
+    <td class="tg-y0n7">Eu, como usuário beneficiário, gostaria de excluir campanhas.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US10</td>
-    <td class="tg-ycr8">Eu, como usuário beneficiário, gostaria de visualizar minhas campanhas criadas.</td>
+    <td class="tg-vxga">US10</td>
+    <td class="tg-vxga">Eu, como usuário beneficiário, gostaria de visualizar minhas campanhas criadas.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8" rowspan="2">FE04 - Gerenciar doações</td>
-    <td class="tg-ycr8">US11</td>
-    <td class="tg-ycr8">Eu, como usuário beneficiário, gostaria de visualizar as doações recebidas.</td>
+    <td class="tg-vxga" rowspan="2">FE04 - Gerenciar doações</td>
+    <td class="tg-y0n7">US11</td>
+    <td class="tg-y0n7">Eu, como usuário beneficiário, gostaria de visualizar as doações recebidas.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US12</td>
-    <td class="tg-ycr8">Eu, como usuário beneficiário, gostaria de filtrar as doações recebidas.</td>
+    <td class="tg-vxga">US12</td>
+    <td class="tg-vxga">Eu, como usuário beneficiário, gostaria de filtrar as doações recebidas.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8" rowspan="3">FE05 - Interagir com usuário doador</td>
-    <td class="tg-ycr8">US13</td>
-    <td class="tg-ycr8">Eu, como usuário beneficiário, gostaria de visualizar informações sobre os doadores que doaram para minha campanha.</td>
+    <td class="tg-vxga" rowspan="3">FE05 - Interagir com usuário doador</td>
+    <td class="tg-y0n7">US13</td>
+    <td class="tg-y0n7">Eu, como usuário beneficiário, gostaria de visualizar informações sobre os doadores que doaram para minha campanha.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US14</td>
-    <td class="tg-ycr8">Eu, como usuário beneficiário, gostaria de entrar em contato com o usuário doador que doou para minha campanha.</td>
+    <td class="tg-vxga">US14</td>
+    <td class="tg-vxga">Eu, como usuário beneficiário, gostaria de entrar em contato com o usuário doador que doou para minha campanha.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US15</td>
-    <td class="tg-ycr8">Eu, como usuário beneficiário, gostaria de visualizar as mensagens recebidas de doadores.</td>
+    <td class="tg-y0n7">US15</td>
+    <td class="tg-y0n7">Eu, como usuário beneficiário, gostaria de visualizar as mensagens recebidas de doadores.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8" rowspan="2">FE06 - Visualizar seção de dúvidas</td>
-    <td class="tg-ycr8">US16</td>
-    <td class="tg-ycr8"><span style="color:#000">Eu, como usuário beneficiário, gostaria de visualizar informações sobre o Doarti.</span></td>
+    <td class="tg-vxga" rowspan="2">FE06 - Visualizar seção de dúvidas</td>
+    <td class="tg-vxga">US16</td>
+    <td class="tg-vxga"><span style="color:#000">Eu, como usuário beneficiário, gostaria de visualizar informações sobre o Doarti.</span></td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US17</td>
-    <td class="tg-ycr8">Eu, como usuário beneficiário, gostaria de entrar em contato com a equipe do Doarti.</td>
+    <td class="tg-y0n7">US17</td>
+    <td class="tg-y0n7">Eu, como usuário beneficiário, gostaria de entrar em contato com a equipe do Doarti.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8" rowspan="18">E02 - Usuário doador</td>
-    <td class="tg-ycr8" rowspan="4">FE07 - Cadastro e autenticação</td>
-    <td class="tg-ycr8">US18</td>
-    <td class="tg-ycr8">Eu, como usuário doador, gostaria de me cadastrar no Doarti.</td>
+    <td class="tg-f189" rowspan="18">E02 - Usuário doador</td>
+    <td class="tg-vxga" rowspan="4">FE07 - Cadastro e autenticação</td>
+    <td class="tg-vxga">US18</td>
+    <td class="tg-vxga">Eu, como usuário doador, gostaria de me cadastrar no Doarti.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US19</td>
-    <td class="tg-ycr8"><span style="color:#000">Eu, como usuário doador, gostaria de realizar meu login a partir do meu cadastro.</span></td>
+    <td class="tg-y0n7">US19</td>
+    <td class="tg-y0n7"><span style="color:#000">Eu, como usuário doador, gostaria de realizar meu login a partir do meu cadastro.</span></td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US20</td>
-    <td class="tg-ycr8"><span style="color:#000">Eu, como usuário doador, gostaria de realizar meu login pelo Facebook ou Google</span></td>
+    <td class="tg-vxga">US20</td>
+    <td class="tg-vxga"><span style="color:#000">Eu, como usuário doador, gostaria de realizar meu login pelo Facebook ou Google</span></td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US21</td>
-    <td class="tg-ycr8"><span style="color:#000">Eu, como usuário doador, gostaria de realizar meu logout.</span></td>
+    <td class="tg-y0n7">US21</td>
+    <td class="tg-y0n7"><span style="color:#000">Eu, como usuário doador, gostaria de realizar meu logout.</span></td>
   </tr>
   <tr>
-    <td class="tg-ycr8" rowspan="3">FE08 - Perfil</td>
-    <td class="tg-ycr8">US22</td>
-    <td class="tg-ycr8"><span style="color:#000">Eu, como usuário doador, gostaria de visualizar meus dados do perfil.</span></td>
+    <td class="tg-vxga" rowspan="3">FE08 - Perfil</td>
+    <td class="tg-vxga">US22</td>
+    <td class="tg-vxga"><span style="color:#000">Eu, como usuário doador, gostaria de visualizar meus dados do perfil.</span></td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US23</td>
-    <td class="tg-ycr8">Eu, como usuário doador, gostaria de editar meus dados do perfil.</td>
+    <td class="tg-y0n7">US23</td>
+    <td class="tg-y0n7">Eu, como usuário doador, gostaria de editar meus dados do perfil.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US24</td>
-    <td class="tg-ycr8">Eu, como usuário doador, gostaria de alterar minha senha.</td>
+    <td class="tg-vxga">US24</td>
+    <td class="tg-vxga">Eu, como usuário doador, gostaria de alterar minha senha.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8" rowspan="2">FE09 - Selecionar campanhas</td>
-    <td class="tg-ycr8">US25</td>
-    <td class="tg-ycr8">Eu, como usuário doador, gostaria de buscar por entidades, campanhas e itens para doar.</td>
+    <td class="tg-vxga" rowspan="2">FE09 - Selecionar campanhas</td>
+    <td class="tg-y0n7">US25</td>
+    <td class="tg-y0n7">Eu, como usuário doador, gostaria de buscar por entidades, campanhas e itens para doar.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US26</td>
-    <td class="tg-ycr8">Eu, como usuário doador, gostaria de selecionar campanhas e ler as informações a respeito delas.</td>
+    <td class="tg-vxga">US26</td>
+    <td class="tg-vxga">Eu, como usuário doador, gostaria de selecionar campanhas e ler as informações a respeito delas.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8" rowspan="3">FE10 - Doações</td>
-    <td class="tg-ycr8">US27</td>
-    <td class="tg-ycr8">Eu, como usuário doador, gostaria de informar que quero doar pra uma campanha.</td>
+    <td class="tg-vxga" rowspan="3">FE10 - Doações</td>
+    <td class="tg-y0n7">US27</td>
+    <td class="tg-y0n7">Eu, como usuário doador, gostaria de informar que quero doar pra uma campanha.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US28</td>
-    <td class="tg-ycr8">Eu, como usuário doador, gostaria de fornecer detalhes sobre minha doação.</td>
+    <td class="tg-vxga">US28</td>
+    <td class="tg-vxga">Eu, como usuário doador, gostaria de fornecer detalhes sobre minha doação.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US29</td>
-    <td class="tg-ycr8">Eu, como usuário doador, gostaria de visualizar meu histórico de doações já realizadas e em andamento.</td>
+    <td class="tg-y0n7">US29</td>
+    <td class="tg-y0n7">Eu, como usuário doador, gostaria de visualizar meu histórico de doações já realizadas e em andamento.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8" rowspan="2">FE11 - Interagir com usuário beneficiário</td>
-    <td class="tg-ycr8">US30</td>
-    <td class="tg-ycr8">Eu, como usuário doador, gostaria de entrar em contato com o usuário beneficiário para o qual quero doar.</td>
+    <td class="tg-xnem" rowspan="2">FE11 - Interagir com usuário beneficiário</td>
+    <td class="tg-vxga">US30</td>
+    <td class="tg-vxga">Eu, como usuário doador, gostaria de entrar em contato com o usuário beneficiário para o qual quero doar.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US31</td>
-    <td class="tg-ycr8">Eu, como usuário doador, gostaria de visualizar as mensagens recebidas de usuários beneficiários.</td>
+    <td class="tg-y0n7">US31</td>
+    <td class="tg-y0n7">Eu, como usuário doador, gostaria de visualizar as mensagens recebidas de usuários beneficiários.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8" rowspan="4">FE12 - Visualizar seção sobre o app</td>
-    <td class="tg-ycr8">US32</td>
-    <td class="tg-ycr8"><span style="color:#000">Eu, como usuário doador, gostaria de ver um pequeno tutorial de como utilizar o app para doar.</span></td>
+    <td class="tg-vxga" rowspan="4">FE12 - Visualizar seção sobre o app</td>
+    <td class="tg-vxga">US32</td>
+    <td class="tg-vxga"><span style="color:#000">Eu, como usuário doador, gostaria de ver um pequeno tutorial de como utilizar o app para doar.</span></td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US33</td>
-    <td class="tg-ycr8"><span style="color:#000">Eu, como usuário doador, gostaria de visualizar informações sobre o Doarti.</span></td>
+    <td class="tg-y0n7">US33</td>
+    <td class="tg-y0n7"><span style="color:#000">Eu, como usuário doador, gostaria de visualizar informações sobre o Doarti.</span></td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US34</td>
-    <td class="tg-ycr8">Eu, como usuário doador, gostaria de entrar em contato com a equipe do Doarti.</td>
+    <td class="tg-vxga">US34</td>
+    <td class="tg-vxga">Eu, como usuário doador, gostaria de entrar em contato com a equipe do Doarti.</td>
   </tr>
   <tr>
-    <td class="tg-ycr8">US35</td>
-    <td class="tg-ycr8">Eu, como usuário doador, gostaria de enviar um feedback sobre o aplicativo Doarti.</td>
+    <td class="tg-y0n7">US35</td>
+    <td class="tg-y0n7">Eu, como usuário doador, gostaria de enviar um feedback sobre o aplicativo Doarti.</td>
   </tr>
 </tbody>
 </table>
