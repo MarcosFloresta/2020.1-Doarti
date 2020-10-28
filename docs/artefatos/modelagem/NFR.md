@@ -1,12 +1,12 @@
 # NFR
 
-## Intrudção
+## Introdução
 
-Para a modelagem de requisitos não-funcionais, usamos o framework NRF (Non-functional Requirements Framework) pois ele nos permite destrinchar os requisitos não-funcionais da aplicação, buscando explorar as necessidades especificadas durante a fase de modelagem de requisitos e para entender como que um requisito impacta nos outros.
+Para a modelagem de requisitos não-funcionais, usamos o framework NRF (Non-functional Requirements Framework) pois ele nos permite ter uma noção sistemática e global dos requisitos não-funcionais da aplicação, buscando explorar as necessidades especificadas durante a fase de modelagem de requisitos e para entender como que um requisito impacta nos outros.
 
 ## Metodologia 
 
-Separamos os NFRs por temas de interesse e usamos o site draw.io para elaborar os esquemas.
+Separamos os NFRs por temas de interesse e usamos o site [draw.io](https://draw.io) para elaborar os esquemas.
 
 ## NFR Suportabilidade
 
