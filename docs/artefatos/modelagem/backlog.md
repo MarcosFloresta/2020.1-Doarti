@@ -13,7 +13,6 @@ O Backlog é uma lista de funcionalidades desejadas de um produto, ou seja, os r
 .tg .tg-f189{background-color:#dae8fc;text-align:center;vertical-align:middle}
 .tg .tg-p7cy{background-color:#ffffff;color:#000000;text-align:center;vertical-align:middle}
 .tg .tg-y0n7{background-color:#efefef;text-align:center;vertical-align:middle}
-.tg .tg-94h5{background-color:#cbcefb;text-align:center;vertical-align:middle}
 .tg .tg-xnem{background-color:#ffffff;border-color:#cbcefb;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -47,7 +46,7 @@ O Backlog é uma lista de funcionalidades desejadas de um produto, ou seja, os r
   </tr>
   <tr>
     <td class="tg-y0n7">US05</td>
-    <td class="tg-94h5">Eu, como usuário beneficiário, gostaria de editar meus dados cadastrais.</td>
+    <td class="tg-y0n7">Eu, como usuário beneficiário, gostaria de editar meus dados cadastrais.</td>
   </tr>
   <tr>
     <td class="tg-vxga">US06</td>
@@ -195,3 +194,4 @@ O Backlog é uma lista de funcionalidades desejadas de um produto, ou seja, os r
 | 26/10/2020 |  1.1   |  Adição da tabela de backlog  |  Aline Lermen  |
 | 27/10/2020 |  1.2   | Revisão e correção da tabela  | Ithalo Azevedo |
 | 27/10/2020 |  1.3   | Adição do texto de introdução | Ithalo Azevedo |
+| 27/10/2020 |  1.4   | Estilização da tabela | Ithalo Azevedo |
