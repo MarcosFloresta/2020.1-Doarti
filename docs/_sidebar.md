@@ -17,3 +17,4 @@
   - [Cenários](artefatos/modelagem/cenarios.md)
   - [Especificação Suplementar](artefatos/modelagem/especificacaoSuplementar.md)
   - [NFR Framework](artefatos/modelagem/NFR.md)
+  - [Backlog](artefatos/modelagem/backlog.md)
