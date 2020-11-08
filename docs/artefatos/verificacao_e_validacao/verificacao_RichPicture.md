@@ -22,7 +22,7 @@
 
 ## Inspeção
 
-| Critério de Sucesso | RP1 | RP2 |
+| Critério de Sucesso | [RP1](../preRastreabilidade/richPicture.md) | [RP2](../preRastreabilidade/richPicture.md) |
 | -- | -- | -- |
 | **01** | :x: | :heavy_check_mark: |
 | **02** | :heavy_check_mark: | :heavy_check_mark: |
