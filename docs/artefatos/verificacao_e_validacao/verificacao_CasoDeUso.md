@@ -55,3 +55,14 @@ Para realizar a analise, criamos um checklist levando em cinsideração os topic
 
 ## Conclusão
 
+Os casos de uso foram a valiados de aordo com os criatérios estabelecidos em "Questões e Justificativas" e mesmo com alguns recebendo :x: a qualidade foi declarada como "Bom", mas alguns UC's foram avaliados como "Regular" e seria nescessário uma refatoração.
+
+## Referências
+
+SERRANO, Milene. Simules Jogo de Cartas e Tabuleiro - Especificação em Cenários
+
+## Histórico de Revisões
+
+|    Data    | Versão |        Descrição         |                                               Autor(es)                                                |
+| :--------: | :----: | :----------------------: | :----------------------------------------------------------------------------------------------------: |
+| 07/11/2020 |  1.0   | Criação do documento com a analise dos Casos de Uso | [Marcos Raimundo](https://github.com/MarcosFloresta)|
