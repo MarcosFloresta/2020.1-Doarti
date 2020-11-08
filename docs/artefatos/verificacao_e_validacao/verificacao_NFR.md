@@ -30,7 +30,7 @@ Verificar a qualidade e a validação dos artefatos levantados ao longo do proce
 ## Inspeção
 
 |Critério de sucesso|[NFR Suportabilidade](../../assets/images/nfr/nfr-suportabilidade.jpg)|[NFR Confiabilidade](../../assets/images/nfr/nfr-confiabilidade.jpg)|[NFR Usabilidade](../../assets/images/nfr/nfr-usabilidade.jpg)|
-|--|--|--|--|--|--|--|--|--|
+|:----|:------|:---------|:---------|
 | 1 - Respeita as regras da metodologia?| :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | 2 - Softgoals autoexplicativo? | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | 3 - Operadores com finalidades definidas?| :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |

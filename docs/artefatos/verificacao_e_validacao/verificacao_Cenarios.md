@@ -28,7 +28,7 @@ Para analisar os modelos dos Cenários, foram levantadas questões a respeito de
 ## Inspeção
 
 | Critério de sucesso                                                          | [C01](../modelagem/cenarios.md) | [C02](../modelagem/cenarios.md)                            |
-| ---------------------------------------------------------------------------- | ------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |  |  |  |  |
+|:----|:------|:---------|
 | 1 - Possui título?                                                           | :heavy_check_mark:              | :heavy_check_mark:                                         |
 | 2 - Possui metas/objetivos?                                                  | :heavy_check_mark:              | :heavy_check_mark:                                         |
 | 3 - Os atores estão bem definidos?                                           | :heavy_check_mark:              | :heavy_check_mark:                                         |
