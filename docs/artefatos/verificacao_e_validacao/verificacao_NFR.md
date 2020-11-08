@@ -58,8 +58,7 @@ Verificar a qualidade e a validação dos artefatos levantados ao longo do proce
 |[NFR Usabilidade](../../assets/images/nfr/nfr-usabilidade.jpg)| [Ithalo Azevedo](https://github.com/ithaloazevedo)| O NFR precisa ser melhorado para detalhar todas as possibilidades existentes de impactos dos requisitos não funcionais. |
 
 ## Conclusão
-
-O NFR pode ser avaliado como Bom de acordo com os critérios de qualidade estabelecidos pelo grupo. Contudo alguns NFR específicos estão regulares, sendo necessários refatorá-los.
+O NFR pode não pode ser considerado bom, de acordo com os critérios estabelecidos pelo grupo. Alguns estão pouco detalhados e não mostram todas as possibilidades de impactos dos requisitos não funcionais.
 
 ## Referência
 
