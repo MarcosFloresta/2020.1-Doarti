@@ -1,7 +1,7 @@
 # Verificação Storyboard
 
 ## Metodologia
-
+Para realizar a verificação dos storyboards foi utilizado um *checklist*, com um conjunto de questões para verificar se foi alcançado o sucesso na elaboração dos storyboards ou não. As questões serão usadas como critérios de sucesso e só há duas respostas possíveis pra essas questões: Sim, sendo representado pelo símbolo de "check" e indicará sucesso, e não, sendo representado por um "X", que indicará insucesso.
 
 ## Questões
 1 - O *storyboard* possui a estrutura de uma série de desenhos em sequência?  
