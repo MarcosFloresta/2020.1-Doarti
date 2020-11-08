@@ -40,7 +40,7 @@
 
 ## Conclusão
 
-O RichPicture pode ser avaliado como **Bom** de acordo com os critérios de qualidade estabelecidos pelo grupo. Contudo alguns Rich específicos estão regulares, sendo necessários refatorá-los. 
+O RichPicture pode ser avaliado como **Bom** de acordo com os critérios de qualidade estabelecidos pelo grupo. Contudo um Rich específico estão regulares. Um novo Rich Picture refatorado é nescessário. 
 
 ## Referências
 HORAN, Pat.Using Rich Pictures in Information System Teaching. Disponível em: http://ceur-ws.org/Vol-72/039%20Horan%20SSM.pdf. 
@@ -51,3 +51,8 @@ Requisitos Uber. Verificação - Inspeção RichPicture e Cenários e Léxicos. 
 
 HOWARD, Andrew Monk. Steve." The Rich Picture: A Tool for Reasoning About Work Context." Interactions.
 
+## Histórico de Revisões
+
+|    Data    | Versão |        Descrição         |                                               Autor(es)                                                |
+| :--------: | :----: | :----------------------: | :----------------------------------------------------------------------------------------------------: |
+| 08/11/2020 |  1.0   | Criação do documento com a analise do Rich Picture | [Marcos Raimundo](https://github.com/MarcosFloresta)|
