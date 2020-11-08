@@ -12,17 +12,17 @@ Para realizar a analise, criamos um checklist levando em cinsideração os topic
 
 |ID|Questão|Justificativa|
 |--|--|--|
-|1 | A descrição de caso de uso está consistente com a representação no diagrama?|Para se ter uma boa descrição ela deve ser condizente com a imagem que representa o caso de uso|
-|2 | O caso de uso mostra o fluxo principal? |E necessário deixar claro qual é o fluxo principal e distinguilos dos demais|
-|3 | O caso de uso possui fluxos alternativos? |O app guiaBolso possui muitos fluxos alternativos, logo caso não possua pode ser uma exceção ou um erro|
-|4 | A descrição do caso de uso possui fluxos de exceção? |pelo que foi visto o app em geral possui muitos fluxos de exceção caso não possua pode ser uma exceção ou um erro|
-|5 | As frases representam um diálogo entre ator e sistema, evideciando a ação do ator? |E necessário para que se possa ter uma compreenção facilitada.|
-|6 | As frases utilizam o tempo presente? |por padrão os casos de uso utilizam este tempo.|
-|7 | As frases procuram ser objetivas, evitando redundâncias ou informações desnecessárias?|O caso de uso deve ser objetivo e claro no que pretende mostrar|
-|8 | O caso de uso segue a formatação padrão no modelo proposto?|Foi preparado um card de modelo, e a padronização e um ponto considerado importante|
-|9 | O caso de uso possui a data nas suas versões?|O versionamento possuindo as datas são de grande importancia em alguns casos|
-|10 | Os icones presentes no diagrama seguem a padronização das cores? |Foi decidido pelo grupo seguir o padrão de icones logo caso não esteja no padrão deve ser corrigido|
-|11 | O caso de uso possui alguma rastreabilidade?|Isto ajuda e visualizar a rastreabilidade dos casos de uso |
+| **1** | A descrição de caso de uso está consistente com a representação no diagrama?|Para se ter uma boa descrição ela deve ser condizente com a imagem que representa o caso de uso|
+| **2** | O caso de uso mostra o fluxo principal? |E necessário deixar claro qual é o fluxo principal e distinguilos dos demais|
+| **3** | O caso de uso possui fluxos alternativos? |O app guiaBolso possui muitos fluxos alternativos, logo caso não possua pode ser uma exceção ou um erro|
+| **4** | A descrição do caso de uso possui fluxos de exceção? |pelo que foi visto o app em geral possui muitos fluxos de exceção caso não possua pode ser uma exceção ou um erro|
+| **5** | As frases representam um diálogo entre ator e sistema, evideciando a ação do ator? |E necessário para que se possa ter uma compreenção facilitada.|
+| **6** | As frases utilizam o tempo presente? |por padrão os casos de uso utilizam este tempo.|
+| **7** | As frases procuram ser objetivas, evitando redundâncias ou informações desnecessárias?|O caso de uso deve ser objetivo e claro no que pretende mostrar|
+| **8** | O caso de uso segue a formatação padrão no modelo proposto?|Foi preparado um card de modelo, e a padronização e um ponto considerado importante|
+| **9** | O caso de uso possui a data nas suas versões?|O versionamento possuindo as datas são de grande importancia em alguns casos|
+| **10** | Os icones presentes no diagrama seguem a padronização das cores? |Foi decidido pelo grupo seguir o padrão de icones logo caso não esteja no padrão deve ser corrigido|
+| **11** | O caso de uso possui alguma rastreabilidade?|Isto ajuda e visualizar a rastreabilidade dos casos de uso |
 
 ## Inspeção
 
