@@ -18,3 +18,6 @@
   - [Especificação Suplementar](artefatos/modelagem/especificacaoSuplementar.md)
   - [NFR Framework](artefatos/modelagem/NFR.md)
   - [Backlog](artefatos/modelagem/backlog.md)
+- **Verificação e Validação**
+  - [NFR](artefatos/verificacao_e_validacao/)
+  - [Cenários](artefatos/verificacao_e_validacao/)
