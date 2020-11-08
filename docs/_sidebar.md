@@ -19,5 +19,5 @@
   - [NFR Framework](artefatos/modelagem/NFR.md)
   - [Backlog](artefatos/modelagem/backlog.md)
 - **Verificação e Validação**
-  - [NFR](artefatos/verificacao_e_validacao/)
-  - [Cenários](artefatos/verificacao_e_validacao/)
+  - [NFR](/artefatos/verificacao_e_validacao/verificacao_NFR.md)
+  - [Cenários](artefatos/verificacao_e_validacao/verificacao_Cenarios.md)
