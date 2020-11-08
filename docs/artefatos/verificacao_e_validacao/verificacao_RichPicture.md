@@ -1,8 +1,12 @@
-# RichPicture
+# Verificação do RichPicture
 
 ## Indrodução
 
+A verificação dos RichPictures tem como objetivo principal a detecção de defeitos antes de encaminhar o produto à produção final. Para esse fim, um checklist mostrou-se mais prático e eficaz para a verificação. O checklist tem questões comuns para os modelos a serem documentados e avaliados e busca capturar as questões relevantes.
+
 ## Metodologia
+
+Para analisar os modelos dos RichPicture, foram levantadas questões a respeito de aspectos importantes para a modelagem de requisitos com cenários. As questões serão usadas como critérios de sucesso e só há duas respostas possíveis pra essas questões: Sim, sendo representado pelo símbolo de :heavy_check_mark: e indicará sucesso, e não, sendo representado por um :x:, que indicará falha. 
 
 ## Questões e Justificativas
 
