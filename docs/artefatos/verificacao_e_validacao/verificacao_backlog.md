@@ -16,23 +16,15 @@ Dado que o backlog é um documento que especifíca todas as funcionalidades do s
 
 ### Macro
 
-| Questão                                                                                      |      Resposta      | Justificativa                                                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** - O backlog está priorizado de acordo com a necessidade da história?                   |        :x:         | Algumas das estórias de usuário que são do _core_ do aplicativo se apresentam depois de funcionalidades mais triviais, como mudanças no perfil do usuário.                                          |
-| **2** - O backlog possui épicos e temas bem definidos?                                       | :heavy_check_mark: | O Backlog possui dois épicos principais, usuário beneficiário e usuário beneficiado, porém seria bom dividí-los em mais épicos (ex: "Fazer Doação") que também servem para agrupar várias histórias |
-| **3** - O backlog abrange o desenvolvimento do produto, documentação e requisitos informais? |        :x:         | O backlog não abrange documentação ou requisitos informais.                                                                                                                                         |
-| **4** - As US's foram elaboradas seguindo um modelo e/ou um padrão?                          | :heavy_check_mark: | As estórias de usuário seguiram o padrão "Como X, quero Y"                                                                                                                                          |
-| **5** - A US identifica corretamente a parte interessada?                                    | :heavy_check_mark: | Sim, o padrão adotado para a criação de US's deixa claro a parte interessada                                                                                                                        |
+| Questão                                                                              |      Resposta      | Justificativa                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------ | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| O backlog está priorizado de acordo com a necessidade da história?                   |        :x:         | Algumas das estórias de usuário que são do _core_ do aplicativo se apresentam depois de funcionalidades mais triviais, como mudanças no perfil do usuário.                                          |
+| O backlog possui épicos e temas bem definidos?                                       | :heavy_check_mark: | O Backlog possui dois épicos principais, usuário beneficiário e usuário beneficiado, porém seria bom dividí-los em mais épicos (ex: "Fazer Doação") que também servem para agrupar várias histórias |
+| O backlog abrange o desenvolvimento do produto, documentação e requisitos informais? |        :x:         | O backlog não abrange documentação ou requisitos informais.                                                                                                                                         |
+| As US's foram elaboradas seguindo um modelo e/ou um padrão?                          | :heavy_check_mark: | As estórias de usuário seguiram o padrão "Como X, quero Y"                                                                                                                                          |
+| A US identifica corretamente a parte interessada?                                    | :heavy_check_mark: | Sim, o padrão adotado para a criação de US's deixa claro a parte interessada                                                                                                                        |
 
 ### Micro
-
-| ID  |                                 Questão                                  |
-| :-: | :----------------------------------------------------------------------: |
-|  1  |         A história especifica ao menos um critério de aceitação?         |
-|  2  |   Os criterios de aceitação estão bem descritos e coerentes com a US?    |
-|  3  | Os desejos e intenções descrevem e estão de acordo com a US e seu épico? |
-
-<br />
 
 |  US  | A história especifica ao menos um critério de aceitação? | Os criterios de aceitação estão bem descritos e coerentes com a US? | Os desejos e intenções descrevem e estão de acordo com a US e seu épico? |
 | :--: | :------------------------------------------------------: | :-----------------------------------------------------------------: | :----------------------------------------------------------------------: |
@@ -83,3 +75,4 @@ Dado que o backlog é um documento que especifíca todas as funcionalidades do s
 |    Data    | Versão |                      Descrição                       |                      Autor                       |
 | :--------: | :----: | :--------------------------------------------------: | :----------------------------------------------: |
 | 08/11/2020 |  1.0   | Criação do documento e verificação incial do Backlog | [Marcos Cabeceira](https://github.com/Foxtrot40) |
+| 08/11/2020 |  1.1   |           Correção de erros de ortografia            | [Marcos Cabeceira](https://github.com/Foxtrot40) |
