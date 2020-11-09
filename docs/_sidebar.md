@@ -25,5 +25,5 @@
   - [Storyboard](artefatos/verificacao_e_validacao/verificacao_storyboard.md)
   - [Backlog](artefatos/verificacao_e_validacao/verificacao_backlog.md)
   - [RichPicture](artefatos/verificacao_e_validacao/verificacao_RichPicture.md)
-  - [Casos de Uso](artefatos/verificacao_e_validacao/verificaca_CasoDeUso.md)
+  - [Casos de Uso](artefatos/verificacao_e_validacao/verificacao_CasoDeUso.md)
 
