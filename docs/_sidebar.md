@@ -21,3 +21,4 @@
 - **Verificação e Validação**
   - [NFR](/artefatos/verificacao_e_validacao/verificacao_NFR.md)
   - [Cenários](artefatos/verificacao_e_validacao/verificacao_Cenarios.md)
+  - [Backlog](artefatos/verificacao_e_validacao/verificacao_backlog.md)
