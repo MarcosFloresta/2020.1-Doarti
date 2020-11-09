@@ -11,3 +11,6 @@
 
 ## 4. Backlog e NFR
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BXWa8GCTQss" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 5. Verificação e Validação
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3bioA9kXEKc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
