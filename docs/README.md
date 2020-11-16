@@ -3,7 +3,10 @@
 
 O app Doarti se destina, tanto a doadores, quanto a beneficiários, os quais se encontrarão e irão estabelecer suas relações. Nele, pessoas que desejam doar podem encontrar Entidades Filantrópicas/Beneficentes e Projetos de Fabricação de equipamentos de saúde que precisam de ajuda, facilitando a relação entre essas partes.
 
-## Equipe
+## Site oficial do Doarti
+https://doarti.com.br/
+
+## Equipe de Requisitos
 
   <div class="members">
     <div class="member">
