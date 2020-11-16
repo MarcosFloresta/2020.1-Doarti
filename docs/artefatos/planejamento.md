@@ -12,7 +12,7 @@ O planejamento é um artefato que define a organização inicial do projeto. Nel
 
 ## Labels
 
-![Labels](/../assets/images/labels.png)
+![Labels](../assets/images/doarti/labels.png)
 
 ## Cronograma de entregas
 
