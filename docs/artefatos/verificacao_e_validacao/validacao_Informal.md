@@ -6,6 +6,7 @@ O processo de validação de software, é a confirmação de que o produto atend
 ## Metodologia 
 O processo de validação escolhido pelo grupo foi a Validação Informal. Essa metodologia consiste na validação diretamente com o(s) cliente(s). No contexto da disciplina, o ideal foi entrar em contato com a equipe do Doarti para que eles validassem tudo o que foi feito. 
 Com isso em mente, o grupo contatou os coordenadores via e-mail explicando resumidamente o que foi realizado e pedindo para que eles validassem os artefatos produzidos. 
+![email](../../assets/images/validacao/email.jpg)
 
 ## Versionamento 
 
