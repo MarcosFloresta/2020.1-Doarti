@@ -8,6 +8,7 @@ O processo de validação escolhido pelo grupo foi a Validação Informal. Essa 
 Com isso em mente, o grupo contatou os coordenadores via e-mail explicando resumidamente o que foi realizado e pedindo para que eles validassem os artefatos produzidos. 
 ![email](../../assets/images/validacao/email.jpg)
 
+![resposta](../../assets/images/validacao/respostaEmail.jpg)
 ## Versionamento 
 
 | Data | Versão | Descrição | Autor |
