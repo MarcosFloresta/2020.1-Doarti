@@ -1,14 +1,20 @@
 ## Introdução
 O planejamento é um artefato que define a organização inicial do projeto. Nele são descritos: ferramentas que irão ser utilizadas, cronogramas, meios de comunicação da equipe, organização, metodologias e estruturação do projeto.
 
+
+
 ## Ferramentas
 
 | Ferramenta      | Descrição                                                                                |
 | --------------- | ---------------------------------------------------------------------------------------- |
-| Git             | Ferramenta utilizada para o controle e versionamento do código. https://git-scm.com/     |
-| Github          | Plataforma onde será hospedado o repositório do código da aplicação. https://github.com/ |
-| Telegram        | Utilizado para comunicação entre o grupo                                                 |
-| Microsoft Teams | Utilizado para fazer chamadas de vídeo entre o grupo e o professor                       |
+| [Git](https://git-scm.com/ )             | Ferramenta utilizada para o controle e versionamento do código. |
+| [Github](https://github.com/)         | Plataforma onde será hospedado o repositório do código da aplicação.  |
+| [Telegram](https://telegram.org/)        | Utilizado para comunicação entre o grupo                                                 |
+| [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-365/microsoft-teams/free) | Utilizado para fazer chamadas de vídeo entre o grupo e o professor                       |
+| [MindMeister](https://www.mindmeister.com/pt/) | Utilizado para fazer os brainstormings                       |
+| [StoryboardThat](https://www.storyboardthat.com/pt) | Ferramenta para criação dos storyboard |
+| [Youtube](https://www.youtube.com/ )             | Plataforma para postarmos os videos das apresentações |
+
 
 ## Labels
 
@@ -28,7 +34,11 @@ O planejamento é um artefato que define a organização inicial do projeto. Nel
 
 ## Históricos de Revisões
 
-|    Data    | Versão |        Descrição         |                    Autor(es)                     |
-| :--------: | :----: | :----------------------: | :----------------------------------------------: |
-| 07/09/2020 |  1.0   |  Criação do documento.   |                  Ithalo Azevedo, Marcos Cabeceira                  |
+|    Data    | Versão |                         Descrição                          |            Autor(es)             |
+| :--------: | :----: | :--------------------------------------------------------: | :------------------------------: |
+| 07/09/2020 |  1.0   |                   Criação do documento.                    | Ithalo Azevedo, Marcos Cabeceira |
+| 10/09/2020 |  1.1   | Revisão do documento e correção do link de uma das imagens |          Ithalo Azevedo          |
+| 16/11/2020 |  1.2   |           Adição de informações sobre o projeto            |          Ithalo Azevedo          |
+| 17/11/2020 |  1.3   |           Atualização das ferramentas utilizadas           |          Ithalo Azevedo          |
+
 
