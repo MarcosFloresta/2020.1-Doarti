@@ -1,6 +1,15 @@
 ## Introdução
 O planejamento é um artefato que define a organização inicial do projeto. Nele são descritos: ferramentas que irão ser utilizadas, cronogramas, meios de comunicação da equipe, organização, metodologias e estruturação do projeto.
 
+## Escolha do App
+Durante a fase do planejamento da equipe nos reunimos algumas vezes para escolher o app. Na primeira reunião, como tivemos uma certa dificuldade na escolha do app para ser tema do nosso projeto da disciplina, optamos por fazer um brainstorming de apps que se enquadrassem em 4 requisitos: 
+- Tenha um escopo que não seja grande.
+- Não tenha documentação já existente.
+- Não seja de uma empresa grande.
+- Seja gratuito. 
+![brainstorming](../assets/images/doarti/escolhaDoApp.png)
+Após o Brainstorming ter sido feito, cada integrante do grupo escolheu um dos apps selecionados, para utilizar durante a semana e realizar a atividade individual da disciplina: Projeto Richpicture (entregue no dia 02 de setembro). Depois disso, nos reunimos e escolhemos o Doarti. Por fim, pedimos a autorização do coordenador do Doarti para a utilizarmos ele como tema do projeto. 
+![autorizacao](../assets/images/doarti/autorizacao.jpg)
 
 
 ## Ferramentas
