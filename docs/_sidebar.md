@@ -19,6 +19,7 @@
   - [NFR Framework](artefatos/modelagem/NFR.md)
   - [Backlog](artefatos/modelagem/backlog.md)
 - **Verificação e Validação**
+  - [Validação informal](/artefatos/verificacao_e_validacao/validacao_Informal.md)
   - [NFR](/artefatos/verificacao_e_validacao/verificacao_NFR.md)
   - [Cenários](artefatos/verificacao_e_validacao/verificacao_Cenarios.md)
   - [Léxicos](artefatos/verificacao_e_validacao/verificacao_lexicos.md)
