@@ -30,3 +30,6 @@ O usuário doador altera os dados desejados e seleciona o botão “SALVAR”
 ## Pós-condição
 O usuário doador agora está com seus dados de perfil alterados.
 
+## Versionamento
+| 06/10/2020 | 1.0 | Criação do caso de uso | Aline Lermen |
+| 06/10/2020 | 1.0 | Revisão do caso de uso | [Ithalo Azevedo](https://github.com/ithaloazevedo) |

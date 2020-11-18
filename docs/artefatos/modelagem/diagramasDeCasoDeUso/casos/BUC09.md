@@ -29,3 +29,6 @@ Não há fluxos de exceção.
 ## Pós-condição
 O usuário beneficiário visualiza as doações recebidas e informações das doações, como doador, contato do doador e status da doação.
 
+## Versionamento
+| 06/10/2020 | 1.0 | Criação do caso de uso | [Ithalo Azevedo](https://github.com/ithaloazevedo) |
+| 06/10/2020 | 1.0 | Revisão do caso de uso | Aline Lermen |

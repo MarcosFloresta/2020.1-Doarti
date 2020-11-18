@@ -28,3 +28,6 @@ O usuário doador visualiza seus dados e configuração da conta
 ## Pós-condição  
 O usuário doador agora poderá visualizar informações do seu perfil.
 
+## Versionamento
+| 06/10/2020 | 1.0 | Criação do caso de uso | Aline Lermen |
+| 06/10/2020 | 1.0 | Revisão do caso de uso | [Ithalo Azevedo](https://github.com/ithaloazevedo) |

@@ -43,3 +43,7 @@ O sistema exibe uma mensagem informando que o e-mail já foi cadastrado com outr
 
 ## Pós-condição
 O usuário doador agora poderá realizar o login através do e-mail cadastrado, para poder acessar seu perfil, poder realizar doações e conversar com o usuário beneficiário pelo chat, bem como visualizar seu futuro histórico de doações.
+
+## Versionamento
+| 06/10/2020 | 1.0 | Criação do caso de uso | Aline Lermen |
+| 06/10/2020 | 1.0 | Revisão do caso de uso | [Ithalo Azevedo](https://github.com/ithaloazevedo) |

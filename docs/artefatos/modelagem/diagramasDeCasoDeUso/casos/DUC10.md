@@ -29,7 +29,9 @@ O usuário doador pode selecionar algum botão que o redirecione para outra tela
 ## Pós-condição
 O usuário doador pode visualizar as informações da seção “Sobre”.  
 
-
+## Versionamento
+| 06/10/2020 | 1.0 | Criação do caso de uso | Aline Lermen |
+| 06/10/2020 | 1.0 | Revisão do caso de uso | [Ithalo Azevedo](https://github.com/ithaloazevedo) |
 
 
 
