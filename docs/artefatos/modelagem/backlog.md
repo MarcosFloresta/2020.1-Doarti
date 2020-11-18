@@ -192,6 +192,6 @@ O Backlog é uma lista de funcionalidades desejadas de um produto, ou seja, os r
 | :--------: | :----: | :---------------------------: | :------------: |
 | 26/10/2020 |  1.0   |     Criação do documento      |  Aline Lermen  |
 | 26/10/2020 |  1.1   |  Adição da tabela de backlog  |  Aline Lermen  |
-| 27/10/2020 |  1.2   | Revisão e correção da tabela  | Ithalo Azevedo |
-| 27/10/2020 |  1.3   | Adição do texto de introdução | Ithalo Azevedo |
-| 27/10/2020 |  1.4   | Estilização da tabela | Ithalo Azevedo |
+| 27/10/2020 |  1.2   | Revisão e correção da tabela  | [Ithalo Azevedo](https://github.com/ithaloazevedo) |
+| 27/10/2020 |  1.3   | Adição do texto de introdução | [Ithalo Azevedo](https://github.com/ithaloazevedo) |
+| 27/10/2020 |  1.4   | Estilização da tabela | [Ithalo Azevedo](https://github.com/ithaloazevedo) |

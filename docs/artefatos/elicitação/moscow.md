@@ -40,5 +40,5 @@ https://rockcontent.com/br/blog/metodo-moscow/
 
 |    Data    | Versão |                   Descrição                   |  Autor(es)  |
 | :--------: | :----: | :-------------------------------------------: | :---------: |
-| 28/09/2020 |  1.0   | Adição das informações, metodologia e requisitos  | Aline Lermen, Ithalo Azevedo|
+| 28/09/2020 |  1.0   | Adição das informações, metodologia e requisitos  | Aline Lermen, [Ithalo Azevedo](https://github.com/ithaloazevedo)|
 

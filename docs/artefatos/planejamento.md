@@ -45,9 +45,9 @@ Após o Brainstorming ter sido feito, cada integrante do grupo escolheu um dos a
 
 |    Data    | Versão |                         Descrição                          |            Autor(es)             |
 | :--------: | :----: | :--------------------------------------------------------: | :------------------------------: |
-| 07/09/2020 |  1.0   |                   Criação do documento.                    | Ithalo Azevedo, Marcos Cabeceira |
-| 10/09/2020 |  1.1   | Revisão do documento e correção do link de uma das imagens |          Ithalo Azevedo          |
-| 16/11/2020 |  1.2   |           Adição de informações sobre o projeto            |          Ithalo Azevedo          |
-| 17/11/2020 |  1.3   |           Atualização das ferramentas utilizadas           |          Ithalo Azevedo          |
+| 07/09/2020 |  1.0   |                   Criação do documento.                    | [Ithalo Azevedo](https://github.com/ithaloazevedo), Marcos Cabeceira |
+| 10/09/2020 |  1.1   | Revisão do documento e correção do link de uma das imagens |          [Ithalo Azevedo](https://github.com/ithaloazevedo)          |
+| 16/11/2020 |  1.2   |           Adição de informações sobre o projeto            |          [Ithalo Azevedo](https://github.com/ithaloazevedo)          |
+| 17/11/2020 |  1.3   |           Atualização das ferramentas utilizadas           |          [Ithalo Azevedo](https://github.com/ithaloazevedo)         |
 
 

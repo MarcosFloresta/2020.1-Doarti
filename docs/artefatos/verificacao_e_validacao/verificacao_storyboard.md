@@ -39,3 +39,4 @@ Storyboards, Paper Prototypes and Mockups - Scott Klemmer / Univ. Califórnia em
 |    Data    | Versão |           Descrição           |   Autor(es)    |
 | :--------: | :----: | :---------------------------: | :------------: |
 | 08/11/2020 |  1.0   |     Adição da verificação do storyboard      |  Aline Lermen  |
+| 18/11/2020 |  1.1   |                 Revisão do artefato                 |  [Ithalo Azevedo](https://github.com/ithaloazevedo)  |

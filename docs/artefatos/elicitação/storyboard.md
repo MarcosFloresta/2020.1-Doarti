@@ -28,4 +28,4 @@ O storyboard foi criado através da ferramenta [Storyboard That](https://www.sto
 
 |    Data    | Versão |                  Descrição                   |   Autor(es)    |
 | :--------: | :----: | :------------------------------------------: | :------------: |
-| 28/09/2020 |  1.0   | Criação do documento e adição dos storyboards. | Ithalo Azevedo |
+| 28/09/2020 |  1.0   | Criação do documento e adição dos storyboards. | [Ithalo Azevedo](https://github.com/ithaloazevedo) |

@@ -54,7 +54,7 @@ O grupo utilizou uma plataforma online chamada [MindMeister](https://www.mindmei
 
 |    Data    | Versão |                Descrição                 |                            Autor(es)                            |
 | :--------: | :----: | :--------------------------------------: | :-------------------------------------------------------------: |
-| 25/09/2020 |  0.1   |       Realização do brainstorming        | Aline Lermen, Ithalo Azevedo, Marcos Cabeceira, Marcos Vinicius |
-| 25/09/2020 |  1.0   |           Criação do documento           |                         Ithalo Azevedo                          |
-| 26/09/2020 |  1.1   | Adição dos printscreens do brainstorming |                         Ithalo Azevedo                          |
-| 27/09/2020 |  1.2   | Identificação dos requisitos elicitados  |                         Ithalo Azevedo                          |
+| 25/09/2020 |  0.1   |       Realização do brainstorming        | Aline Lermen, [Ithalo Azevedo](https://github.com/ithaloazevedo), Marcos Cabeceira, Marcos Vinicius |
+| 25/09/2020 |  1.0   |           Criação do documento           |                         [Ithalo Azevedo](https://github.com/ithaloazevedo)                          |
+| 26/09/2020 |  1.1   | Adição dos printscreens do brainstorming |                         [Ithalo Azevedo](https://github.com/ithaloazevedo)                          |
+| 27/09/2020 |  1.2   | Identificação dos requisitos elicitados  |                         [Ithalo Azevedo](https://github.com/ithaloazevedo)                          |

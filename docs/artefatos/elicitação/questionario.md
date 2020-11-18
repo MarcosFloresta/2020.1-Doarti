@@ -50,4 +50,4 @@ Há uma variedade de itens que podem ser doados, e, muitas vezes, os participant
 |    Data    | Versão |                  Descrição                   |   Autor(es)    |
 | :--------: | :----: | :------------------------------------------: | :------------: |
 | 25/09/2020 |  1.0   | Adição das informações, resultados e análise |  Aline Lermen  |
-| 27/09/2020 |  1.1   |             Revisão do documento             | Ithalo Azevedo |
+| 27/09/2020 |  1.1   |             Revisão do documento             | [Ithalo Azevedo](https://github.com/ithaloazevedo) |

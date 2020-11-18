@@ -39,7 +39,7 @@ Caso de uso é uma técnica de especificação que descreve uma seqüência de a
 
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
-| 08/10/2020 | 1.0 | Criação do documento, adição da introdução e referências | Ithalo Azevedo |
+| 08/10/2020 | 1.0 | Criação do documento, adição da introdução e referências | [Ithalo Azevedo](https://github.com/ithaloazevedo) |
 | 08/10/2020 | 1.1 | Revisando casos de uso do usuário tipo beneficiário | Aline Lermen |
-| 08/10/2020 | 1.2 | Revisando casos de uso do usuário tipo doador | Ithalo Azevedo |
-| 08/10/2020 | 1.3 | Linkando casos de uso | Aline Lermen, Ithalo Azevedo |
+| 08/10/2020 | 1.2 | Revisando casos de uso do usuário tipo doador | [Ithalo Azevedo](https://github.com/ithaloazevedo) |
+| 08/10/2020 | 1.3 | Linkando casos de uso | Aline Lermen, [Ithalo Azevedo](https://github.com/ithaloazevedo) |

@@ -20,7 +20,7 @@ Para analisar os modelos dos RichPicture, foram levantadas questões a respeito 
 | **6** - O fluxo e as operações fazem sentido?| Usar as setas e impactos nas ações são essenciais para o entendimento da mensagem a ser passada. [Howard](https://dl.acm.org/citation.cfm?id=274434) afirma que manter o fluxo com as setas condizentes com o real ajudam a evitar duplas interpretações. |
 | **7** - Usa linguagem compreensível?| De acordo com [Monk.A e Howard.S](https://dl.acm.org/citation.cfm?id=274434), desenhar o diagrama com linguagem clara e comum é essencial, pois aumentará a quantidade de pessoas que poderão revisar seu artefato. |
 | **8** - Possui versionamento?| Com versionamento, é possível melhorar a comunicação entre um grupo, permitindo que pessoas diferentes possam ver alterações, medir o impacto delas e também de aperfeiçoar o modelo, como descreve o material de [versionamento](http://gnmd.webgrupos.com.br/arquivo_downloads/Apresenta__oSVN.pdf). |
-| **9** - Os ícones correspondem à identidade visual proposta?| Para padronizar a identidade visual da empresa em questão, é disposto um material com seus ícones e paleta de cores, disponíveis no site da [Guira](https://guira.com.br/icons-illustrations-for-guiabolso). Com essa padronização é possível manter um fluxo com interpretações a funcionalidades já conhecidas.  |
+| **9** - Os ícones correspondem à identidade visual proposta?| É comum que os softwares sigam uma identidade visual.  |
 | **10** - Há relação clara entre atores e objetos?| Segundo [Monk.A e Howard.S](https://dl.acm.org/citation.cfm?id=274434), a relação entre stakeholders e as ações mostram o que deve ser alcançado, sendo essencial no modelo. |
 | **11** - Está com as funcionalidades atualizadas?| As empresas evoluem funcionalidades e regras de negócio, sendo necessária, a frequente atualização do modelo em questão. |
 
@@ -60,3 +60,5 @@ HOWARD, Andrew Monk. Steve." The Rich Picture: A Tool for Reasoning About Work C
 |    Data    | Versão |        Descrição         |                                               Autor(es)                                                |
 | :--------: | :----: | :----------------------: | :----------------------------------------------------------------------------------------------------: |
 | 08/11/2020 |  1.0   | Criação do documento com a analise do Rich Picture | [Marcos Raimundo](https://github.com/MarcosFloresta)|
+| 18/11/2020 |  1.1   |                 Revisão do artefato                 |  [Ithalo Azevedo](https://github.com/ithaloazevedo)  |
+
