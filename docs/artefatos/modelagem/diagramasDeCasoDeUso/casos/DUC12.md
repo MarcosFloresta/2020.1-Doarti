@@ -39,5 +39,7 @@ O usuário seleciona o botão “VEJA O TUTORIAL”
 O usuário doador pode visualizar as informações sobre “Sou um doador, e agora?” e ver o tutorial.  
 
 ## Versionamento
+|    Data    | Versão |                        Descrição                         |                            Autor(es)                             |
+| :--------: | :----: | :------------------------------------------------------: | :--------------------------------------------------------------: |
 | 06/10/2020 | 1.0 | Criação do caso de uso | Aline Lermen |
 | 06/10/2020 | 1.0 | Revisão do caso de uso | [Ithalo Azevedo](https://github.com/ithaloazevedo) |

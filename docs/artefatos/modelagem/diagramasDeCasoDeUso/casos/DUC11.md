@@ -33,6 +33,8 @@ O usuário doador seleciona o botão “Enviar”, enviando, assim, o seu feedba
 O usuário doador pode enviar seu feedback.  
 
 ## Versionamento
+|    Data    | Versão |                        Descrição                         |                            Autor(es)                             |
+| :--------: | :----: | :------------------------------------------------------: | :--------------------------------------------------------------: |
 | 06/10/2020 | 1.0 | Criação do caso de uso | Aline Lermen |
 | 06/10/2020 | 1.0 | Revisão do caso de uso | [Ithalo Azevedo](https://github.com/ithaloazevedo) |
 

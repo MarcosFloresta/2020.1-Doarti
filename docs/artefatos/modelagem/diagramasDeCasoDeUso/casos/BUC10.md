@@ -31,5 +31,7 @@ Não há fluxos de exceção.
 O usuário beneficiário visualiza as mensagens recebidas dos doadores.
 
 ## Versionamento
+|    Data    | Versão |                        Descrição                         |                            Autor(es)                             |
+| :--------: | :----: | :------------------------------------------------------: | :--------------------------------------------------------------: |
 | 06/10/2020 | 1.0 | Criação do caso de uso | [Ithalo Azevedo](https://github.com/ithaloazevedo) |
 | 06/10/2020 | 1.0 | Revisão do caso de uso | Aline Lermen |

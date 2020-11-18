@@ -39,5 +39,7 @@ O usuário beneficiário deve ser cadastrado na aplicação.
 O usuário beneficiário agora poderá acessar seu perfil, gerenciar campanhas, conversar com o usuário doador pelo chat e visualizar mensagens e doações recebidas.
 
 ## Versionamento
+|    Data    | Versão |                        Descrição                         |                            Autor(es)                             |
+| :--------: | :----: | :------------------------------------------------------: | :--------------------------------------------------------------: |
 | 06/10/2020 | 1.0 | Criação do caso de uso | [Ithalo Azevedo](https://github.com/ithaloazevedo) |
 | 06/10/2020 | 1.0 | Revisão do caso de uso | Aline Lermen |

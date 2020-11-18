@@ -37,9 +37,9 @@ Caso de uso é uma técnica de especificação que descreve uma seqüência de a
 * Devmedia: <https://www.devmedia.com.br/artigo-engenharia-de-software-11-especificacao-de-casos-de-uso/12210#:~:text=Caso%20de%20uso%20%C3%A9%20uma,uma%20resposta%20para%20um%20ator.&text=O%20caso%20de%20uso%20detalha,%C3%A9%20utilizada%20por%20um%20ator.>
 ## Histórico de Revisões
 
-| Data | Versão | Descrição | Autor(es) |
-|:----:|:------:|:---------:|:---------:|
-| 08/10/2020 | 1.0 | Criação do documento, adição da introdução e referências | [Ithalo Azevedo](https://github.com/ithaloazevedo) |
-| 08/10/2020 | 1.1 | Revisando casos de uso do usuário tipo beneficiário | Aline Lermen |
-| 08/10/2020 | 1.2 | Revisando casos de uso do usuário tipo doador | [Ithalo Azevedo](https://github.com/ithaloazevedo) |
-| 08/10/2020 | 1.3 | Linkando casos de uso | Aline Lermen, [Ithalo Azevedo](https://github.com/ithaloazevedo) |
+|    Data    | Versão |                        Descrição                         |                            Autor(es)                             |
+| :--------: | :----: | :------------------------------------------------------: | :--------------------------------------------------------------: |
+| 08/10/2020 |  1.0   | Criação do documento, adição da introdução e referências |        [Ithalo Azevedo](https://github.com/ithaloazevedo)        |
+| 08/10/2020 |  1.1   |   Revisando casos de uso do usuário tipo beneficiário    |                           Aline Lermen                           |
+| 08/10/2020 |  1.2   |      Revisando casos de uso do usuário tipo doador       |        [Ithalo Azevedo](https://github.com/ithaloazevedo)        |
+| 08/10/2020 |  1.3   |                  Linkando casos de uso                   | Aline Lermen, [Ithalo Azevedo](https://github.com/ithaloazevedo) |

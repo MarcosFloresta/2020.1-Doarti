@@ -34,5 +34,7 @@ O usuário doador seleciona alguma das campanha
 O usuário doador pode visualizar as informações da campanha.  
 
 ## Versionamento
+|    Data    | Versão |                        Descrição                         |                            Autor(es)                             |
+| :--------: | :----: | :------------------------------------------------------: | :--------------------------------------------------------------: |
 | 06/10/2020 | 1.0 | Criação do caso de uso | Aline Lermen |
 | 06/10/2020 | 1.0 | Revisão do caso de uso | [Ithalo Azevedo](https://github.com/ithaloazevedo) |

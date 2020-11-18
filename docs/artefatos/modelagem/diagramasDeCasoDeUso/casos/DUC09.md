@@ -36,6 +36,8 @@ O usuário doador pode selecioná-las e enviar e receber mensagens
 O usuário doador pode se comunicar com o usuário beneficiário pelo chat.  
 
 ## Versionamento
+|    Data    | Versão |                        Descrição                         |                            Autor(es)                             |
+| :--------: | :----: | :------------------------------------------------------: | :--------------------------------------------------------------: |
 | 06/10/2020 | 1.0 | Criação do caso de uso | Aline Lermen |
 | 06/10/2020 | 1.0 | Revisão do caso de uso | [Ithalo Azevedo](https://github.com/ithaloazevedo) |
 
