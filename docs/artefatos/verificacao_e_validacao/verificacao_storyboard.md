@@ -30,7 +30,7 @@ Para realizar a verificação dos storyboards foi utilizado um *checklist*, com 
 
 
 ## Referências
-SHARP, Helen; et al. Design de interação: Além da Interação Humano-Computador. Bookman, 2005.
+SHARP, Helen; et al. Design de interação: Além da Interação Humano-Computador. Bookman, 2005.  
 Storyboards, Paper Prototypes and Mockups - Scott Klemmer / Univ. Califórnia em Berkeley (Coursera). 2020. Disponível em: <youtube.com/watch?v=h2H3oIQtddU&ab>. Acesso em 08/11/2020.
 
 
