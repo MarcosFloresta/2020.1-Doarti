@@ -26,7 +26,7 @@ Para realizar a verificação dos léxicos foi utilizado um *checklist*, com um 
 2. Nome
     * O léxico possui um nome claro e coerente?
 3. Classificação
-    * Os símbolos estão corretamente classificados em sujeito, objeto, ação e estado?
+    * Os símbolos estão corretamente classificados em sujeito, objeto, verbo e estado?
 4. Noção
     * O léxico possui uma noção coerente com o nome do léxico?
     * A noção do léxico está clara e define o que é o símbolo?
@@ -45,7 +45,7 @@ Para realizar a verificação dos léxicos foi utilizado um *checklist*, com um 
 |2. Nome|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |3. Classificação|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |4. Noção|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|5. Impacto|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|5. Impacto|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |6. Sinônimo|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 
 
@@ -57,7 +57,6 @@ Para realizar a verificação dos léxicos foi utilizado um *checklist*, com um 
 | L09 | Corrigir classificação  <br /> Corrigir impacto |
 | L11 | Adicionar impacto|
 | L13 | Corrigir noção (ortografia não clara) |
-| L16 | Corrigir impacto|
 | L17 | Corrigir classificação <br /> Corrigir impacto (trocar com L18)|
 | L18 | Corrigir classificação <br /> Corrigir impacto (trocar com L17)|
 
@@ -74,3 +73,4 @@ Lista de Verificação: Análise de Léxicos. Disponível em: https://requisitos
 |    Data    | Versão |           Descrição           |   Autor(es)    |
 | :--------: | :----: | :---------------------------: | :------------: |
 | 07/11/2020 |  1.0   |     Adição da verificação dos léxicos    |  Aline Lermen  |
+| 20/11/2020 |  1.1   |     Modificações nas questões e melhorias    |  Aline Lermen  |
