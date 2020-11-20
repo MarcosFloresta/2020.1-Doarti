@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfabética e com seus respectivos significados dentro do aplicativo Doarti. Os léxios foram descritos com Noções e Impactos que, respectivamente, são o significados denotativos dos termos e o efeitos que o simbolos têm na aplicação.
+Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfabética e com seus respectivos significados dentro do aplicativo Doarti. Os léxicos foram descritos com Noções e Impactos que, respectivamente, são o significados denotativos dos termos e o efeitos que o simbolos têm na aplicação.
 
 ### Alterar senha
 
@@ -24,7 +24,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
-| Objeto | Local onde o usuário pode digitar um termo para pesquisa | Uso na busca por Entidades e Itens de doação | - |
+| Objeto | Local onde o usuário pode digitar um termo para pesquisa | Uso na busca por Entidades e Itens de doação | Barra de pesquisa, barra de procura |
 
 ---
 
@@ -44,6 +44,15 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
+### Campanhas
+
+| Tipo | Noção | Impacto | Sinônimos |
+| :---: | :---: | :---: | :---: |
+| Objeto | Item no Menu Principal com lista das entidades de interesse do Doador  | Visualização das informações sobre as entidades, local de entrega, item doado e opção para enviar mensagem | - |
+
+
+---
+
 ### Chat
 
 | Tipo | Noção | Impacto | Sinônimos |
@@ -58,13 +67,6 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 | :---: | :---: | :---: | :---: |
 | Objeto | Texto descritivo dentro do perfil de uma entidade | Contem informações sobre a entidade, formas de entrega, itens para doação e localização da entidade | Informações, dados|
 
----
-
-### Doações
-
-| Tipo | Noção | Impacto | Sinônimos |
-| :---: | :---: | :---: | :---: |
-| Objeto | Item no Menu Principal com lista das entidades de interesse do Doador  | Visualização das informações sobre as entidades, local de entrega, item doado e opção para enviar mensagem | Contribuição, auxílio |
 
 ---
 
@@ -72,7 +74,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
-| Objeto | Pessoa que utiliza o aplicativo e possui conta de Doador | Realiza buscas na Barra de Busca, enviar mensagens para um perfil de entidade | Filantropo, dador, concessor |
+| Sujeito | Pessoa que utiliza o aplicativo e possui conta de Doador | Realiza buscas na Barra de Busca, enviar mensagens para um perfil de entidade | Filantropo, dador, concessor |
 
 ---
 
@@ -88,7 +90,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
-| Verbo | Opção presente no menu Perfil para o perfil de Doador | - | - |
+| Verbo | Opção presente no menu Perfil para o perfil de Doador | O doador pode acessar sua conta através do email | - |
 
 ---
 
@@ -104,7 +106,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
-| Objeto | Opção central n=no menu principal onde são listados os perfis das entidades | Doador pode buscar uma entidade ou um item com a barra de busca | Feed, catálogo, lista|
+| Objeto | Opção central no menu principal onde são listados os perfis das entidades | Doador pode buscar uma entidade ou um item com a barra de busca | Feed, catálogo, lista|
 
 ---
 
@@ -136,7 +138,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
-| Objeto | Realizado no menu Perfil do aplicativo | Pode ser feito por email, conta google, conta do Facebook e com ID Apple | Entrar |
+| Verbo | Realizado no menu Perfil do aplicativo | Pode ser realizado somente pelo email  | Entrar |
 
 ---
 
@@ -144,7 +146,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
-| Objeto | Realizando no menu Perfil do aplicativo | Pode ser realizado somente pelo email | Entrar |
+| Verbo | Realizando no menu Perfil do aplicativo | Pode ser feito por email, conta google, conta do Facebook e com ID Apple | Entrar |
 
 ---
 
@@ -174,3 +176,4 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 | Data | Versão | Descrição | Autor(es) |
 |:---:|:---:|:---:|:---:|
 | 08/10/2020 | 1.0 | Criação do documento, adição dos léxicos | Marcos Raimundo |
+| 20/11/2020 | 1.1 | Revisão do documento | Aline Lermen |
