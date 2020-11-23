@@ -4,8 +4,8 @@
 Caso de uso é uma técnica de especificação que descreve uma seqüência de ações que o sistema deve realizar para produzir uma resposta para um ator. Na realidade, tem-se uma seqüência da interação entre caso de uso e ator. O caso de uso detalha o que um sistema deve fazer, descrevendo como uma determinada funcionalidade é utilizada por um ator. Como o Doarti possue dois tipos de usuário, optamos por separar os casos de uso em duas categorias BUC (Beneficiário Use Case) e DUC (Doador Use Case) um para cada tipo de usuário. Para a criação dos diagramas utilizamos a ferramenta [Draw.io](app.diagrams.net).
 
 ### Usuário tipo beneficiário:
-- [BUC01 - Cadastrar como usuário entidade](artefatos\modelagem\diagramasDeCasoDeUso\casos\BUC01.md)
-- [BUC02 - Login como usuário entidade](artefatos/modelagem/diagramasDeCasoDeUso/casos/BUC02.md)
+- [BUC01 - Cadastrar como usuário entidade](casos/BUC01.md)
+- [BUC02 - Login como usuário entidade](casos/BUC02.md)
 - [BUC03 - Visualizar dados cadastrais como usuário beneficiário](artefatos/modelagem/diagramasDeCasoDeUso/casos/BUC03.md)
 - [BUC04 - Editar dados cadastrais como usuário beneficiário](artefatos/modelagem/diagramasDeCasoDeUso/casos/BUC04.md)
 - [BUC05 - Gerenciar campanhas](artefatos/modelagem/diagramasDeCasoDeUso/casos/BUC05.md)
