@@ -1,9 +1,11 @@
 # Especificação de Casos de Uso  
 
 ## Casos de Uso
+
 Caso de uso é uma técnica de especificação que descreve uma seqüência de ações que o sistema deve realizar para produzir uma resposta para um ator. Na realidade, tem-se uma seqüência da interação entre caso de uso e ator. O caso de uso detalha o que um sistema deve fazer, descrevendo como uma determinada funcionalidade é utilizada por um ator. Como o Doarti possue dois tipos de usuário, optamos por separar os casos de uso em duas categorias BUC (Beneficiário Use Case) e DUC (Doador Use Case) um para cada tipo de usuário. Para a criação dos diagramas utilizamos a ferramenta [Draw.io](app.diagrams.net).
 
 ### Usuário tipo beneficiário:
+
 - [BUC01 - Cadastrar como usuário entidade](casos/BUC01.md)
 - [BUC02 - Login como usuário entidade](casos/BUC02.md)
 - [BUC03 - Visualizar dados cadastrais como usuário beneficiário](casos/BUC03.md)
@@ -17,6 +19,7 @@ Caso de uso é uma técnica de especificação que descreve uma seqüência de a
 - [BUC11 - Conversar com usuário doador](casos/BUC11.md)
 
 ### Usuário tipo doador:
+
 - [DUC01 - Cadastrar como usuário doador](casos/DUC01.md)
 - [DUC02 - Fazer login como usuário doador](casos/DUC02.md)
 - [DUC03 - Visualizar perfil como usuário doador](casos/DUC03.md)
@@ -30,11 +33,12 @@ Caso de uso é uma técnica de especificação que descreve uma seqüência de a
 - [DUC11 - Enviar feedback](casos/DUC11.md)
 - [DUC12 - “Sou um doador, e agora?”](casos/DUC12.md)
 
-
 ## Referências
+
 * Diagrama de Casos de Uso: <https://medium.com/operacionalti/uml-diagrama-de-casos-de-uso-29f4358ce4d5>. Último acesso  em 08/10/2020.
 * Draw.io: <https://app.diagrams.net>. Último acesso em 08/10/2020.
 * Devmedia: <https://www.devmedia.com.br/artigo-engenharia-de-software-11-especificacao-de-casos-de-uso/12210#:~:text=Caso%20de%20uso%20%C3%A9%20uma,uma%20resposta%20para%20um%20ator.&text=O%20caso%20de%20uso%20detalha,%C3%A9%20utilizada%20por%20um%20ator.>
+
 ## Histórico de Revisões
 
 |    Data    | Versão |                        Descrição                         |                            Autor(es)                             |
