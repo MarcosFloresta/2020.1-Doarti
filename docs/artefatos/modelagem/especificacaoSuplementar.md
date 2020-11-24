@@ -32,6 +32,24 @@ Um modelo para classificação de atributos de qualidade de software. Desenvolvi
 - **S - Suportability (Suportabilidade)** <br />
   Os requisitos de suportabilidade agrupam várias características, tais como: testabilidade, adaptabilidade, manutenabilidade, campatibilidade, configurabilidade, instalabilidade, escalabilidade, entre outros.
 
+## Doarti
+
+- **Funcionalidade** <br />
+  - Segurança: A aplicação deve armazenar os dados de seus usuários de forma segura para evitar vazamento de informações;
+  - Reporte: A aplicação fornece uma forma dos usuários enviarem feedbacks para os desenvolvedores.
+
+- **Usabilidade** <br />
+  - A aplicação utiliza de linguagem simples para o publico alvo;
+  - A aplicação segue padrões para cores, espaçamentos e formas;
+  - A aplicação da feedbacks de erros para seus usuários.
+- **Confiabilidade** <br />
+  - A aplicação deve dar feedback em caso de falhas, caso não consiga se recuperar dessa falha a mesma deve instruir o usuário de como faze-lo.
+- **Performance** <br />
+  - A aplicação não aparenta consumir muito dos recursos do dispositivo móvel, tendo respostas rápidas para as ações feitas pelo usuário.
+- **Suportabilidade** <br />
+  - A aplicação está disponível na forma de aplicativo móvel para os maiores sistemas operacionais, Android e iOS.
+
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
 | 06/10/2020 | 1.0 | Criação do documento, adição de Introdução, Finalidade, Escopo e Método de avaliação | [Marcos Cabeceira](https://github.com/Foxtrot40) |
+| 24/11/2020 | 1.1 | Adição dos casos para o Doarti | [Marcos Cabeceira](https://github.com/Foxtrot40) |
