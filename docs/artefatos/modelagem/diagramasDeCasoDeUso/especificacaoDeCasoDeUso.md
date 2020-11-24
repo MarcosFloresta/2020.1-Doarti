@@ -47,3 +47,4 @@ Caso de uso é uma técnica de especificação que descreve uma seqüência de a
 | 08/10/2020 |  1.1   |   Revisando casos de uso do usuário tipo beneficiário    |                           Aline Lermen                           |
 | 08/10/2020 |  1.2   |      Revisando casos de uso do usuário tipo doador       |        [Ithalo Azevedo](https://github.com/ithaloazevedo)        |
 | 08/10/2020 |  1.3   |                  Linkando casos de uso                   | Aline Lermen, [Ithalo Azevedo](https://github.com/ithaloazevedo) |
+| 27/11/2020 | 1.4 | Revisão final do documento | [Marcos Raimundo](https://github.com/MarcosFloresta) |

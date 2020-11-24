@@ -54,3 +54,4 @@ Os dados cadastrais do usuário beneficiário agora serão atualizados.
 | :--------: | :----: | :------------------------------------------------------: | :--------------------------------------------------------------: |
 | 06/10/2020 | 1.0 | Criação do caso de uso | [Ithalo Azevedo](https://github.com/ithaloazevedo) |
 | 06/10/2020 | 1.0 | Revisão do caso de uso | Aline Lermen |
+| 27/11/2020 | 1.1 | Revisão final do documento | [Marcos Raimundo](https://github.com/MarcosFloresta) |
