@@ -4,7 +4,7 @@
 
 Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfabética e com seus respectivos significados dentro do aplicativo Doarti. Os léxicos foram descritos com Noções e Impactos que, respectivamente, são o significados denotativos dos termos e o efeitos que o simbolos têm na aplicação.
 
-### Alterar senha
+### L01 - Alterar senha
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -12,7 +12,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Arquivo
+### L02 - Arquivo
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -20,7 +20,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Barra de Busca
+### L03 - Barra de Busca
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -28,7 +28,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Busca de entidade
+### L04 - Busca de entidade
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -36,7 +36,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Busca de Itens
+### L05 - Busca de Itens
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -44,7 +44,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Campanhas
+### L06 - Campanhas
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -53,7 +53,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Chat
+### L07 - Chat
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -61,7 +61,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Descrição
+### L08 - Descrição
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -70,7 +70,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Doador
+### L09 - Doador
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -78,7 +78,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Enviar Mensagem
+### L10 - Enviar Mensagem
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -86,7 +86,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Fazer cadastro com email
+### L11 - Fazer cadastro com email
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -94,7 +94,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Forma de entrega
+### L12 - Forma de entrega
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -102,7 +102,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Home
+### L13 - Home
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -110,7 +110,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Imagem
+### L14 - Imagem
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -118,7 +118,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Itens
+### L15 - Itens
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -126,7 +126,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Localização
+### L16 - Localização
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -134,7 +134,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Login da Entidade
+### L17 - Login da Entidade
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -142,7 +142,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Login do Doador
+### L18 - Login do Doador
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -150,13 +150,15 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Mensagem
+### L19 - Mensagem
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
 | Objeto | Comunicação por texto entre as entidades e os doadores | Aparecem no menu Chat e pode ser iniciada dentro dos perfis de entidade | Contato |
 
-### Perfil
+---
+
+### L20 - Perfil
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -164,7 +166,7 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 
 ---
 
-### Sobre
+### L21 - Sobre
 
 | Tipo | Noção | Impacto | Sinônimos |
 | :---: | :---: | :---: | :---: |
@@ -177,3 +179,4 @@ Usamos a técnica para descrever vocábulos e símbolos, dispostos em ordem alfa
 |:---:|:---:|:---:|:---:|
 | 08/10/2020 | 1.0 | Criação do documento, adição dos léxicos | Marcos Raimundo |
 | 20/11/2020 | 1.1 | Revisão do documento | Aline Lermen |
+| 24/11/2020 | 1.2 | Adição da numeração dos léxicos | Aline Lermen |
