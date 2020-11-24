@@ -1,16 +1,20 @@
 # BUC01 - Cadastrar como usuário beneficiário
 
 # Diagrama
-![BUC01](../../assets/images/casosDeUso/BUC01.png)
+
+![BUC01](../../../../assets/images/casosDeUso/BUC01.png)
 
 ## Descrição
+
 O usuário beneficiário deve poder se cadastrar no aplicativo.
 
 ## Atores
+
 Usuário beneficiário.
 Suporte técnico.
 
 ## Pré-requisitos
+
 O usuário beneficiário deve possuir um endereço de e-mail.
 O e-mail utilizado para cadastro não pode ter sido utilizado no cadastro de outra conta.
 O usuário beneficiário deve se enquadrar nos [critérios de cadastro](https://doarti.com.br/#criterios).
@@ -18,6 +22,7 @@ O usuário beneficiário deve se enquadrar nos [critérios de cadastro](https://
 ## Fluxo de Eventos
 
 ### Fluxo Principal
+
 1. O usuário beneficiário entra no site do [Doarti](https://doarti.com.br/).
 2. O usuário beneficiário clica em “Pré-cadastro”.
 3. O usuário beneficiário é redirecionado para um formulário de pré-cadastro.
@@ -28,9 +33,11 @@ O usuário beneficiário deve se enquadrar nos [critérios de cadastro](https://
 8. O suporte técnico aprova o cadastro do usuário beneficiário.
 
 ### Fluxos Alternativos
+
 Não há fluxos alternativos.
 
 ### Fluxos de Exceção
+
 **FE01**: Usuário beneficiário não se enquadra nos critérios de cadastro.
    1. O usuário beneficiário entra no site do [Doarti](https://doarti.com.br/).
    2. O usuário beneficiário clica em “Pré-cadastro”.
@@ -42,14 +49,17 @@ Não há fluxos alternativos.
    8. O suporte técnico reprova o cadastro do usuário beneficiário.
 
 ## Pós-condição
+
 O usuário beneficiário agora pode realizar login no Doarti, gerenciar campanhas, ver doações recebidas e conversar com o usuário doador pelo chat.
 
 ## Referências
+
 https://doarti.com.br/#criterios
 
 ## Versionamento
+
 |    Data    | Versão |                        Descrição                         |                            Autor(es)                             |
 | :--------: | :----: | :------------------------------------------------------: | :--------------------------------------------------------------: |
 | 06/10/2020 | 1.0 | Criação do caso de uso | [Ithalo Azevedo](https://github.com/ithaloazevedo) |
 | 06/10/2020 | 1.0 | Revisão do caso de uso | Aline Lermen |
-
+| 27/11/2020 | 1.1 | Revisão final do documento | [Marcos Raimundo](https://github.com/MarcosFloresta) |
