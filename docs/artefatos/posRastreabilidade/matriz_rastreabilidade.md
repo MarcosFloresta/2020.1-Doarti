@@ -12,8 +12,8 @@ S - [storyboard](../elicitação/storyboard.md)
 
 ## Requisitos Funcionais
 
-|  ID | Descrição | Origem | Product Backlog | Caso de uso | Cenário | Léxico |
-| :-: | :-------- | :----: | :-------------: | :---------: | :-----: | :----: |
+|  ID  | Descrição | Origem | Product Backlog | Caso de uso | Cenário | Léxico |
+| :-:  | :-------- | :----: | :-------------: | :---------: | :-----: | :----: |
 | RF01 | Ambos os tipos usuário devem poder se cadastrar no aplicativo | B | F01, F07 | DUC01 | - | L11 |
 | RF02 | O usuário doador deve poder fazer login pelo Google | B | F07 | DUC02 | - | L18 |
 | RF03 | O usuário doador deve poder fazer login pelo Facebook | B | F07 | DUC02 | - | L18 |
