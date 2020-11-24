@@ -28,4 +28,5 @@
   - [Backlog](artefatos/verificacao_e_validacao/verificacao_backlog.md)
   - [RichPicture](artefatos/verificacao_e_validacao/verificacao_RichPicture.md)
   - [Casos de Uso](artefatos/verificacao_e_validacao/verificacao_CasoDeUso.md)
-
+- **Pós-rastreabilidade**
+  - [Matriz de rastreabilidade](artefatos/posRastreabilidade/matriz_rastreabilidade.md)
