@@ -6,8 +6,8 @@ Caso de uso é uma técnica de especificação que descreve uma seqüência de a
 
 ### Usuário tipo beneficiário:
 
-- [BUC01 - Cadastrar como usuário entidade](artefatos\modelagem\diagramasDeCasoDeUso\casos\BUC01.md)
-- [BUC02 - Login como usuário entidade](./casos/BUC01.md)
+- [BUC01 - Cadastrar como usuário entidade](artefatos/modelagem/diagramasDeCasoDeUso/casos/BUC01.md)
+- [BUC02 - Login como usuário entidade](../casos/BUC02.md)
 - [BUC03 - Visualizar dados cadastrais como usuário beneficiário](casos/BUC03.md)
 - [BUC04 - Editar dados cadastrais como usuário beneficiário](casos/BUC04.md)
 - [BUC05 - Gerenciar campanhas](casos/BUC05.md)
