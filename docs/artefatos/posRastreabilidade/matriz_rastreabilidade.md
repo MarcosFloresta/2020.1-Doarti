@@ -5,10 +5,10 @@ A rastreabilidade é uma característica de sistemas, nas quais requisitos são 
 
 
 ### Legenda
-Q - [questionário](artefatos\elicitação\questionario.md)  
-B - [brainstorming](artefatos\elicitação\brainstorming.md)   
-E - [entrevista](artefatos\elicitação\entrevistas.md)  
-S - [storyboard](artefatos\elicitação\storyboard.md)
+Q - [questionário](artefatos/elicitação/questionario.md)  
+B - [brainstorming](artefatos/elicitação/brainstorming.md)   
+E - [entrevista](artefatos/elicitação/entrevistas.md)  
+S - [storyboard](artefatos/elicitação/storyboard.md)
 
 ## Requisitos Funcionais
 
