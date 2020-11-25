@@ -5,7 +5,7 @@ A rastreabilidade é uma característica de sistemas, nas quais requisitos são 
 
 
 ### Legenda
-Q - [questionário](../elicitação/questionario.md)  
+Q - [questionário](artefatos\elicitação\questionario.md)  
 B - [brainstorming](../elicitação/brainstorming.md)   
 E - [entrevista](../elicitação/entrevistas.md)  
 S - [storyboard](../elicitação/storyboard.md)
