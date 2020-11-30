@@ -5,10 +5,10 @@ A rastreabilidade é uma característica de sistemas, nas quais requisitos são 
 
 
 ### Legenda
-Q - [questionário](artefatos\elicitação\questionario.md)  
-B - [brainstorming](artefatos\elicitação\brainstorming.md)   
-E - [entrevista](artefatos\elicitação\entrevistas.md)  
-S - [storyboard](artefatos\elicitação\storyboard.md)
+Q - [questionário](artefatos/elicitação/questionario.md)  
+B - [brainstorming](artefatos/elicitação/brainstorming.md)   
+E - [entrevista](artefatos/elicitação/entrevistas.md)  
+S - [storyboard](artefatos/elicitação/storyboard.md)
 
 ## Requisitos Funcionais
 
@@ -36,6 +36,17 @@ S - [storyboard](artefatos\elicitação\storyboard.md)
 | RF20 | O usuário beneficiário deve poder editar campanhas | B | F03 | BUC07 | - | - |
 | RF21 | O usuário beneficiário deve poder excluir campanhas | B | F03 | BUC08 | - | - |
 
+## Requisitos Não Funcionais
+|  ID  | Descrição | Origem | NFR |
+| :-:  | :-------- | :----: | :-: |
+| RNF01 | O usuário beneficiário deve ser validado para ter cadastro aprovado | B | - |
+| RNF02 | A aplicação deve armazenar os dados de seus usuários de forma segura para evitar vazamento de informações | B | - |
+| RNF03 | A aplicação deve fornecer uma forma dos usuários enviarem feedbacks para os desenvolvedores. | B | - |
+| RNF04 | A aplicação deve dar feedback em caso de falhas, caso não consiga se recuperar dessa falha a mesma deve instruir o usuário de como faze-lo. | B | NFR02 |
+| RNF05 | A aplicação deve apresentar respostas rápidas para as ações feitas pelo usuário. | B | - |
+| RNF06 | A aplicação deve estar disponível na forma de aplicativo móvel para Android e iOS. | B | NFR03 |
+
+
 ## Referências
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 44 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
@@ -44,3 +55,4 @@ SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 44 slides. Material a
 | Data | Versão | Descrição | Autor(es) |
 |:---:|:---:|:---:|:---:|
 | 24/11/2020 | 1.0 | Criação do documento e adição da tabela | [Aline Lermen](https://github.com/AlineLermen) |
+| 26/11/2020 | 1.1 | Adição da tabela de requisitos não funcionais | [Aline Lermen](https://github.com/AlineLermen) |
