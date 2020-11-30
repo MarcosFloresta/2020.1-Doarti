@@ -14,12 +14,12 @@ S - [storyboard](artefatos/elicitação/storyboard.md)
 
 |  ID  | Descrição | Origem | Product Backlog | Caso de uso | Cenário | Léxico |
 | :-:  | :-------- | :----: | :-------------: | :---------: | :-----: | :----: |
-| RF01 | Ambos os tipos usuário devem poder se cadastrar no aplicativo | B | F01, F07 | DUC01 | - | L11 |
-| RF02 | O usuário doador deve poder fazer login pelo Google | B | F07 | DUC02 | - | L18 |
-| RF03 | O usuário doador deve poder fazer login pelo Facebook | B | F07 | DUC02 | - | L18 |
+| RF01 | Ambos os tipos usuário devem poder se cadastrar no aplicativo | B | F01, F07 | DUC01 | C03 e C04 | L11 |
+| RF02 | O usuário doador deve poder fazer login pelo Google | B | F07 | DUC02 | C05 | L18 |
+| RF03 | O usuário doador deve poder fazer login pelo Facebook | B | F07 | DUC02 | C05 | L18 |
 | RF04 | Ambos os tipos usuário deve poder fazer login pelo seu email cadastrado | B | F01, F07 | DUC02, BUC02 | C01 | L17,L18 |
-| RF05 | Ambos os tipos usuário devem poder recuperar sua senha através de seu e-mail cadastrado | B | - | - | - | - |
-| RF06 | Ambos os tipos de usuário devem poder redefinir sua senha | B | F02, F08 | - | - | L01 |
+| RF05 | Ambos os tipos usuário devem poder recuperar sua senha através de seu e-mail cadastrado | B | - | - | C06 | - |
+| RF06 | Ambos os tipos de usuário devem poder redefinir sua senha | B | F02, F08 | - | C07 | L01 |
 | RF07 | Ambos os tipos de usuário devem poder visualizar e editar seu perfil | B | F02, F08 | DUC04, BUC04 | - | L20 |
 | RF08 | Ambos os tipos de usuário devem poder visualizar informações sobre o Doarti | B | F06, F12 | DUC10 | - | L21 |
 | RF09 | O usuário doador deve poder visualizar seu histórico de doações | B | F10 | DUC05 | - | - |
@@ -56,3 +56,4 @@ SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 44 slides. Material a
 |:---:|:---:|:---:|:---:|
 | 24/11/2020 | 1.0 | Criação do documento e adição da tabela | [Aline Lermen](https://github.com/AlineLermen) |
 | 26/11/2020 | 1.1 | Adição da tabela de requisitos não funcionais | [Aline Lermen](https://github.com/AlineLermen) |
+| 30/11/2020 | 1.2 | Adição de Cenários na tabela de requisitos funcionais | [Marcos Cabeceira](https://github.com/Foxtrot40) |
